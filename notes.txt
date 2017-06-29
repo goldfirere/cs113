@@ -1,0 +1,5 @@
+See notes for previous courses.
+
+JUST SAY NO to tutorialspoint.com
+
+first lab: include instructions for how to show all files, and show extensions. talk about folders & such.

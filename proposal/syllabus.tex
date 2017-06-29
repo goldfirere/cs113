@@ -1,0 +1,125 @@
+\documentclass[12pt]{article}
+
+\usepackage{fullpage}
+
+% http://tex.stackexchange.com/questions/12279/outline-of-style-i-a-i-a-1
+\usepackage{outlines}
+\usepackage{enumitem}
+\setenumerate[1]{label=\Roman*.}
+\setenumerate[2]{label=\Alph*.}
+\setenumerate[3]{label=\arabic*.}
+
+\usepackage{url}
+\usepackage[colorlinks=true]{hyperref}
+\usepackage{parskip}
+
+\begin{document}
+
+\begin{center}
+\Large
+Computer Programming Course Outline\\
+January 2017
+\end{center}
+
+\textbf{Learning goals:} 
+\begin{itemize}
+\item Students should leave this course with the
+ability to write small programs in Java, such as the following:
+\begin{itemize}
+\item The ability to read data in from a CSV file and perform transformations
+to the data or to visualize it.
+\item The ability to write a small game (e.g., Tetris).
+\item The ability to write a small communication service, such as a very
+basic web browser or a chat client.
+\end{itemize}
+\item Students should leave this course with an understanding of the
+inherent difficulty of computer programming and an appreciation for the
+challenges of writing software in the real world.
+\item Students will also learn more about modern computer systems (file/directory
+structure, operating systems, networking) as we cover the more fundamental
+topics.
+\end{itemize}
+
+The course will use the ACM Java Toolkit, as available at
+\href{http://jtf.acm.org}{\texttt{jtf.acm.org}}. This Java library provides
+students with a platform to easily create graphics using proper object-oriented
+design, vastly simplifying the act of creating a graphical Java program. Students
+will work in the \href{http://eclipse.org}{Eclipse} development environment,
+a leading Java platform used by professionals.
+
+There will be no textbook.
+
+\textbf{Course outline:}
+\begin{outline}[enumerate]
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\1 Basics
+  \2 Working with Java programs
+     \3 Textual input / punctuation
+     \3 File formats
+     \3 Running programs
+     \3 Eclipse
+  \2 Drawing shapes
+     \3 Coordinate axes
+     \3 Shape primitives
+  \2 Mouse input
+\1 Object orientation
+  \2 Classes
+  \2 Methods
+  \2 Constructors
+\1 Program control
+  \2 Conditionals (\texttt{if})
+  \2 Booleans
+  \2 Animations
+\1 Data
+  \2 Numerical types
+  \2 Variables
+  \2 Fields
+  \2 Parameters
+\1 User interactivity
+  \2 Keyboard input
+  \2 Program state machines
+  \2 Multimedia
+     \3 Images
+     \3 Sounds
+     \3 Music
+\1 Loops
+  \2 Standard in/out
+  \2 \texttt{while}
+  \2 \texttt{for}
+  \2 Primality checking
+\1 Lists
+  \2 \texttt{ArrayList}
+  \2 List algorithms
+     \3 min/max
+     \3 reverse
+     \3 delete
+  \2 Strings
+\1 Files
+  \2 Basic file input/output
+  \2 Parsing/tokenizing
+  \2 Data manipulation
+  \2 Data visualization
+\1 Recursion
+  \2 Recursion on numbers
+  \2 Recursion on strings
+  \2 Recursion on lists
+\1 Inheritance
+  \2 Interfaces
+  \2 Abstract methods
+  \2 Abstract classes
+  \2 Overriding
+  \2 Class-based polymorphism
+\end{outline}
+
+Students will be assessed on weekly programming assignments, several quizzes
+and exams, and several longer projects. Longer projects will include a
+\href{http://www.ponggame.org/}{Pong}-like game, a real-world data
+manipulation \& visualization (e.g., using data downloaded from
+\href{http://data.gov}{\texttt{data.gov}}), and a final project of the
+student's choosing, which will serve as the final assessment.
+A student's grade will be based primarily on their out-of-class written work.
+Quizzes and exams will serve only to ensure that the student herself has
+learned the material and has the basics readily accessible.
+
+\end{document}

@@ -1,0 +1,10 @@
+.metadata
+.recommenders
+*.aux
+.settings
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.class

@@ -1,0 +1,38 @@
+Description:
+
+This is an introduction to the discipline of computer science, suitable for
+those students with a mature quantitative ability. This fast-paced course
+covers the basics of computer programming, with an emphasis on program design
+and problem decomposition. Graduates of this course will be able to write
+small computer programs independently; examples include data processing for a
+data-based science course, small games, or basic communications programs (such
+as a chat client). No computer programming experience is necessary or
+expected.
+
+Prereq structure:
+
+CMSC 110 is the current introduction to computer science. It is a corequisite
+of CMSC 231 and a prerequisite of CMSC 206. The new course proposed here will
+serve in exactly the same slot in our requirements structure, as a corequisite
+of CMSC 231 and a prerequisite of CMSC 206. It is intended that the new course
+is an expansion on CMSC 110, providing extra challenge to students capable of
+the faster pace. The new course does not further change our prerequisite
+structure.
+
+Approach:
+
+The data manipulation and visualization in this course fits the QM guidelines
+closely. More broadly, successful programming requires much mathematical
+reasoning.
+
+Limiting enrollment:
+
+This will be a very hands-on course, with a required lab component. Our lab
+seats 24 students. The lottery will prefer younger students and students who
+express an interest in majoring/minoring in computer science, just like CMSC
+110's lottery.
+
+Exams:
+
+As a practice-based course, this course will culminate in a final project, not
+a final exam. There will be several exams during the semester.
