@@ -3,3 +3,13 @@ See notes for previous courses.
 JUST SAY NO to tutorialspoint.com
 
 first lab: include instructions for how to show all files, and show extensions. talk about folders & such.
+
+
+CS topics to mention:
+ - Algorithms (complexity theory, efficiency)
+ - Theory (what *is* computable, after all?)
+ - Programming languages (how to design PL, types)
+ - Graphics (e.g., the pixels are all half a unit off, color spaces, efficiency, transformations)
+ - machine learning (data processing, statistics)
+ - AI (search, minimax)
+ - networking
