@@ -35,6 +35,14 @@ main = hakyll $ do
     route   $ dropClassNameRoute
     compile $ copyFileCompiler
 
+  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.md") $ do
+    route   $ dropLabNameRoute `composeRoutes` setHtmlExtension
+    compile $ mdCompiler
+
+  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*.zip") $ do
+    route   $ dropLabNameRoute
+    compile $ copyFileCompiler
+
   piimatch "hw/**/*.md" $ do
     route   $ homeworkRoute `composeRoutes` setExtension "html"
     compile $ mdCompiler
@@ -60,6 +68,10 @@ dropWebRoute = pathRoute tail
 -- drop the XXX from 03_XXX/blah
 dropClassNameRoute :: Routes
 dropClassNameRoute = pathRoute $ \ (class_name : rest) -> take 2 class_name : rest
+
+-- go from labs/01_blah/foo.md to lab01/foo.md
+dropLabNameRoute :: Routes
+dropLabNameRoute = pathRoute $ \ (_labs : lab_name : rest) -> ("lab" ++ take 2 lab_name) : rest
 
 -- move from hw/NN/blah to hwXX/blah
 homeworkRoute :: Routes

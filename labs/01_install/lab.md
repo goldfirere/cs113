@@ -33,7 +33,7 @@ we have to install the software.
 
    *  On Linux: This just isn't necessary, because you have a more intelligent operating system.
 
-2. Download [cs113.zip](lab01/cs113.zip) to a convenient spot where you wish to store your
+2. Download [cs113.zip](cs113.zip) to a convenient spot where you wish to store your
    coursework. (Please, don't just put it on your desktop!)
 
 3. Expand the .zip file.
