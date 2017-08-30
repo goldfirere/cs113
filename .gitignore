@@ -9,3 +9,5 @@
 *.class
 _site
 _cache
+/.metadata/
+bin

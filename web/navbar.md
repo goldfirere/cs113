@@ -1,7 +1,8 @@
 <div id="navbar"><span id="navbarspan">
-[Home] | [Policies] | [Syllabus]
+[Home] | [Policies] | [Style Guide] | [Syllabus]
 </span></div>
 
 [Home]: index.html
 [Policies]: policies.html
+[Style Guide]: style.html
 [Syllabus]: syllabus.html

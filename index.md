@@ -29,13 +29,13 @@ Office Hours:                  Tuesdays 1:30pm-3:30pm
                                If these don't work, do not fret. Email instead.
 <span class="strut" />
 Lecture:                       MW 1:10-2:30
-Lecture Room:                  TBD
-Lecture Recordings:            at [Tegrity](TODO) (Non-BMC students can login through our Moodle page.)
-Labs:                          M 2:40-3:30; W 12:10-1:00 (you may attend either one)
+Lecture Room:                  Park 338
+Lecture Recordings:            at Tegrity: access via [Moodle](https://moodle.brynmawr.edu/course/view.php?id=214); look for link on right side of screen.
+Labs:                          M 2:40-3:30; W 12:10-1:00 (you may register for either one)
 Lab Room:                      Park 231
 Website:                       <http://cs.brynmawr.edu/cs113>
 GitHub Repo:                   <https://github.com/goldfirere/cs113>
-Mailing List:                  [cs113-fa17@lists.cs.brynmawr.edu](mailto:cs113-fa17@lists.cs.brynmawr.edu)
+Piazza Q&A Forum:              <https://piazza.com/brynmawr/fall2017/cs113/home>
 ----------------------         -----------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
@@ -44,7 +44,11 @@ Mailing List:                  [cs113-fa17@lists.cs.brynmawr.edu](mailto:cs113-f
 
 --------------------           ------------------------------  ----------------------
 Time                           TA                              Location
-TBD                            TBD                             TBD
+TBD                            Calla Carter                    TBD
+TBD                            Kellie Dinh                     TBD
+TBD                            Kennedy Ellison                 TBD
+TBD                            Sonya Fucci                     TBD
+TBD                            Ruby Malusa                     TBD
 --------------------           ------------------------------  ----------------------
 </div>
 
@@ -108,7 +112,7 @@ Materials
 
 This course does not have a textbook. Instead, we will be using coding samples with
 extensive comments, which serve essentially as lecture notes. We will be building
-programs on top of the [ACM Java Toolkit](TODO), which enables an easy start to
+programs on top of the [ACM Java Toolkit](http://cs.stanford.edu/people/eroberts/jtf/), which enables an easy start to
 graphical programming.
 
 Our programming will be done using [Eclipse](http://eclipse.org/), a professionally-used

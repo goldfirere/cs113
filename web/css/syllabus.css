@@ -45,14 +45,14 @@ tr:nth-child(1) td p {
 }
 
 .even {
-    background-color:#ffdbc1;
+    background-color:#d0fff0;
 }
 
 .odd {
-    background-color: #ffcbc1;
+    background-color: #ccffe0;
 }
 
 tr:nth-child(1) {
-        background-color: #ffc1cc;
+        background-color: #bbffe0;
 }
 

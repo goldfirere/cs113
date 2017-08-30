@@ -1,1 +1,0 @@
-INDEX VERSION 1.130+/Users/rae/Dropbox/BMC/113/.metadata/.plugins/org.eclipse.jdt.core

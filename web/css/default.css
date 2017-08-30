@@ -1,5 +1,5 @@
 body {
-    background-color: #ffcbc1; 
+    background-color: #ddfff8; 
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: #000000;
@@ -16,7 +16,7 @@ div#navbar {
 }
 
 span#navbarspan {
-    background-color: #ffaaaa;
+    background-color: #bbffe0;
     padding: 3px 10px;
     border: solid 1px #000000;
 }
@@ -51,7 +51,22 @@ div#footer {
     color: #B8860B;
 }
 
-.sourceCode .kw { /* keyword */
+.sourceCode .kw, .sourceCode .dt { /* keyword */
     color: #008800;
 }
 
+div#linkback {
+    text-align: center;
+}
+
+code {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+code.sourceCode {
+    background-color: inherit;
+}
+
+div.sourceCode {
+    background-color: rgba(255, 255, 255, 0.4);
+}

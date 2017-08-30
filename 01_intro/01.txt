@@ -1,0 +1,14 @@
+tour of computer science
+
+- DNA calculations (computational biology)
+- unicorn tapestries (algorithms & graphics)
+- graph of Harvey's destruction (data visualization & graphics)
+- networking (how *does* a piece of information go around the world??)
+- expert systems / machine learning (IBM's Watson on Jeopardy and more recent pursuits)
+- security (election & hacking)
+- programming language theory (every bug you've ever seen)
+- cryptography (brevity of RSA algorithm -- underpins all of modern commerce)
+- computational art (look up)
+- "algorithmics"
+
+
