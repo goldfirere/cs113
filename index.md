@@ -13,6 +13,8 @@ title: "CS 113: Computer Science I"
 
 \$navbar\$
 
+**You can find the placement questionnaire for this course [here](https://docs.google.com/forms/d/e/1FAIpQLSc_kEzIdDbus7Bl0xajDQ279ToEG6cyNGVSz2tfMTIVJBn6oQ/viewform?usp=sf_link).**
+
 General information
 ===================
 
@@ -51,8 +53,6 @@ TBD                            Sonya Fucci                     TBD
 TBD                            Ruby Malusa                     TBD
 --------------------           ------------------------------  ----------------------
 </div>
-
-**You can find the placement questionnaire for this course [here](https://docs.google.com/forms/d/e/1FAIpQLSc_kEzIdDbus7Bl0xajDQ279ToEG6cyNGVSz2tfMTIVJBn6oQ/viewform?usp=sf_link).**
 
 Goals of course
 ---------------

@@ -1,14 +1,50 @@
-tour of computer science
+I. Introductions
+II. Computer Science I
+III. Tour of CS
+
+Introductions (0-6)
+ - Background
+ - Programming languages theorist
+ - I'm at ICFP (show web page, etc.)
+ - Sorry!
+
+CS1 (6-35)
+ - Introduction to CS
+ - Java programming
+ - Java is used in industry
+ - (Java is NOT JavaScript)
+ - Java is NOT JAVA
+
+ - Animations
+ - Games
+ - Data processing
+ - Final project
+
+ - Loops, arrays, recursion, interfaces
+
+ - Homework is spent *coding*.
+ - Coding is *fun*.
+
+ - Examples
+
+ - Syllabus / website
+ - Homework vs project
+ - Piazza
+ - "homework": name the owl
+
+Tour of computer science (35-50)
 
 - DNA calculations (computational biology)
 - unicorn tapestries (algorithms & graphics)
 - graph of Harvey's destruction (data visualization & graphics)
+  - https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html
 - networking (how *does* a piece of information go around the world??)
 - expert systems / machine learning (IBM's Watson on Jeopardy and more recent pursuits)
 - security (election & hacking)
+   - Kevin's potential thesis
 - programming language theory (every bug you've ever seen)
 - cryptography (brevity of RSA algorithm -- underpins all of modern commerce)
-- computational art (look up)
+   - see definition at MathWorld
 - "algorithmics"
 
 
