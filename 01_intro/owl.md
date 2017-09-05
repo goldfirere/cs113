@@ -31,6 +31,6 @@ and start or join the conversation. Please use your College email address and
 real name when
 creating your Piazza account.
 
-Please also fill out [this survey](TODO) to get me to know you better.
+Please also fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf3YT00iTwC5n6r2-vHVKRbBSEkWeTTGlUfHT8EsHqi9F8tyQ/viewform?usp=sf_link) to get me to know you better.
 
 Complete these tasks before class on Monday, September 11.
