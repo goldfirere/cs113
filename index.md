@@ -38,7 +38,7 @@ Lab Room:                      Park 231
 Website:                       <http://cs.brynmawr.edu/cs113>
 GitHub Repo:                   <https://github.com/goldfirere/cs113>
 Piazza Q&A Forum:              <https://piazza.com/brynmawr/fall2017/cs113/home>
-TAs:                           Calla Carter (<cjcarter@brynmawr.edu>), Kellie Dinh (<kdinh@brynmawr.edu>), Kennedy Ellison (<kellison@brynmawr.edu>), Sonya Fucci (<sfucci@brynmawr.edu>), Ruby Malusa (<rmalusa@brynmawr.edu>)
+TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Kennedy Ellison (<kellison@brynmawr.edu>), Sonya Fucci (<sfucci@brynmawr.edu>), Ruby Malusa (<rmalusa@brynmawr.edu>)
 ----------------------         -----------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
@@ -53,10 +53,8 @@ Tuesdays 6-8pm                 Kellie Dinh                        Park 231
 Tuesdays 7-9pm                 Sonya Fucci                        Park 231
 Wednesdays 6-8pm               Kellie Dinh                        Park 231
 Wednesdays 7-9pm               Sonya Fucci                        Park 231
-Thursdays 5-7pm                Calla Carter                       Park 231
 Thursdays 6-8pm                Kennedy Ellison                    Park 231
 Sundays 6-8pm                  Ruby Malusa                        Park 231
-Sundays 7-9pm                  Calla Carter                       Park 231
 --------------------           ------------------------------     ----------------------
 </div>
 
