@@ -45,6 +45,8 @@ TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Kennedy Ellis
 
 <div id="ta_hours">
 
+**TA hours will start from Sunday, Sept 10.**
+
 --------------------           ------------------------------     ----------------------
 Time                           TA                                 Location
 Mondays 6-8pm                  Kennedy Ellison                    Park 231
