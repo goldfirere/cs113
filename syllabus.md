@@ -40,7 +40,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 3 |9/13 | * Mouse interaction| * Warmup homework  |                   |                   |
+| 3 |9/13 | * Mouse interaction| * [Warmup homework]|                   |                   |
 |   |     | * Data fields      |out                 |                   |                   |
 |   |     | * Types            |                    |                   |                   |
 |   |     | * Custom classes   |                    |                   |                   |
@@ -56,7 +56,7 @@ represents my aims.
 |   |     | * Classes          |                    |                   |                   |
 |L2 |     | * Methods          |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 5 |9/20 | * Boolean values   | * Warmup homework  |                   |                   |
+| 5 |9/20 | * Boolean values   | * [Warmup homework]|                   |                   |
 |   |     | * Animation        |due                 |                   |                   |
 |   |     |                    | * Owl project out  |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -280,3 +280,4 @@ There will be a self-scheduled final exam during the normal exam period.
 
 [Name the owl]: 01/owl.html
 [Lab01]: lab01/lab.html
+[Warmup homework]: hw01/Warmup.pdf

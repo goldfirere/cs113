@@ -39,15 +39,15 @@ main = hakyll $ do
     route   $ dropLabNameRoute `composeRoutes` setHtmlExtension
     compile $ mdCompiler
 
-  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*.zip") $ do
+  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.zip") $ do
     route   $ dropLabNameRoute
     compile $ copyFileCompiler
 
-  piimatch "hw/**/*.md" $ do
+  piimatch (fromRegex "^hw/[0-9][0-9]_[^/]+/[^/]*.md") $ do
     route   $ homeworkRoute `composeRoutes` setExtension "html"
     compile $ mdCompiler
 
-  piimatch (complement "**/*.md" .&&. "hw/**") $ do
+  piimatch (fromRegex "^hw/[0-9][0-9]_[^/]+/[^/]*\\.(pdf|jar)") $ do
     route   $ homeworkRoute
     compile $ copyFileCompiler
 
@@ -73,9 +73,9 @@ dropClassNameRoute = pathRoute $ \ (class_name : rest) -> take 2 class_name : re
 dropLabNameRoute :: Routes
 dropLabNameRoute = pathRoute $ \ (_labs : lab_name : rest) -> ("lab" ++ take 2 lab_name) : rest
 
--- move from hw/NN/blah to hwXX/blah
+-- move from hw/NN_XXX/blah to hwNN/blah
 homeworkRoute :: Routes
-homeworkRoute = pathRoute $ \ (_hw : number : rest) -> ("hw" ++ number) : rest
+homeworkRoute = pathRoute $ \ (_hw : number : rest) -> ("hw" ++ take 2 number) : rest
 
 setHtmlExtension :: Routes
 setHtmlExtension = pathRoute $ \ (snocView -> (dirs, file)) ->
