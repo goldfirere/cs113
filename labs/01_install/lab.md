@@ -71,10 +71,10 @@ the installer.
     Eclipse is an *integrated development environment* (IDE) that will make Java programming
    much easier than it would be otherwise.
 
-   **Mac users:** Many have had trouble with Java versions. If you are told to download a "legacy"
+    **Mac users:** Many have had trouble with Java versions. If you are told to download a "legacy"
    Java at this point (with a `More Info...` button), do so. You may also need to download the
    macOS version of Java from [this page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-   (and no other).
+   (and no other). Choose the macOS link from the topmost set of downloads.
 
 5. Follow the directions in the installer, choosing the "Eclipse IDE for Java Developers" when
    given a menu of choices. At the end of installation, click the green Launch button.
