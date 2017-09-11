@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+logfile=/autograder/submission/error.out
+
+cd /autograder/submission
+
+java_files=$(find . -name "*.java")
+javac -cp /autograder/source/acm.jar:src:. $java_files 2> $logfile
+
+if [[ $? == 0 ]]; then
+    cp /autograder/source/results.json /autograder/results/results.json
+else
+echo "Compilation errors:"
+cat $logfile
+
+# from https://stackoverflow.com/questions/10053678/escaping-characters-in-bash-for-json
+log=$(<$logfile)
+log=${log//\\/\\\\} # \ 
+log=${log//\//\\\/} # / 
+log=${log//\'/\\\'} # ' (not strictly needed ?)
+log=${log//\"/\\\"} # " 
+log=${log//   /\\t} # \t (tab)
+log=${log//
+/\\\n} # \n (newline)
+log=${log//^M/\\\r} # \r (carriage return)
+log=${log//^L/\\\f} # \f (form feed)
+log=${log//^H/\\\b} # \b (backspace)
+cp /autograder/source/errors.json /autograder/results/results.json
+echo "$log" >> /autograder/results/results.json
+echo '"}' >> /autograder/results/results.json
+fi

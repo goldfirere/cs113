@@ -15,11 +15,20 @@ Introductions (1:10-1:30)
 Examples (1:30-1:40)
  - ooh -- look!
 
-Hello, world!
+PUNCTUATION
+ ` ~ ! @ # ^ & * ( ) _ [ ] { } \ / | ' " ; : < > 
+
+Shapes (1:40-2:00)
+ - GLabel(String s, int x, int y)
+ - GRect(int x, int y, int w, int h)
+ - GOval(int x, int y, int w, int h)
+ - GLine(int x1, int y1, int x2, int y2)
+
+Modifiers (2:00-2:10)
+ - setFilled
+ - setColor
+
+Colors (2:10-2:20)
+ - RGB
 
 
-
-see syllabus
-also:
- - punctuation
- - plagiarism

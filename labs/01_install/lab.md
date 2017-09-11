@@ -191,3 +191,5 @@ file in your `cs113` folder, then in the `Lab 01 -- Hello, World!` folder, and t
 in the `src` folder. (`src` stands for "source", as in "source code".)
 
 18. When you're all done, call me over and tell me of your success.
+
+19. If you have time, play around. See what you can draw!

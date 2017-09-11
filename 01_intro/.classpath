@@ -5,6 +5,6 @@
 	<classpathentry kind="lib" path="examples/koh.jar"/>
 	<classpathentry kind="lib" path="examples/stephens.jar"/>
 	<classpathentry kind="lib" path="examples/wang.jar"/>
-	<classpathentry kind="lib" path="/Users/rae/Dropbox/BMC/113/acm.jar"/>
+	<classpathentry kind="var" path="ACM"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

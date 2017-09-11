@@ -9,7 +9,9 @@ import java.awt.*;
 public class Drawing extends GraphicsProgram
 {
 	/* In the run section of the file, we put all the drawing code: */
-	@Override
+	@Override // <-- This means that the method is special. We'll
+	          // learn more about this later on.
+	          // For now, all methods we write will have @Override.
 	public void run()
 	{
 		/*
@@ -20,7 +22,6 @@ public class Drawing extends GraphicsProgram
 
 		// after creating anything, we need to remember to add it!
 		add(greeting);
-
 		/*
 		 * make a rectangle. We specify the coordinates of the
 		 * upper-left corner and the width & height. This rectangle has
@@ -70,7 +71,7 @@ public class Drawing extends GraphicsProgram
 		 * need Color.RED. Also, for any color operation, you must
 		 * import java.awt.*; at the top of your file.
 		 */
-		filledRectangle.setColor(Color.BLUE);
+		filledRectangle.setFillColor(Color.BLUE);
 
 		// finally, add the filled rectangle
 		add(filledRectangle);

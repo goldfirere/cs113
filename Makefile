@@ -17,7 +17,6 @@ hakyll/site: hakyll/*.hs
 clean:
 	rm -rf _cache _site
 	rm -rf [0-9][0-9]_*/*.{aux,log,out,bbl,blg,ptb,fls,fdb_latexmk,synctex.gz}
-	rm -rf $(PDFS)
 
 deploy:
 	[[ -z `git status -s` ]]  # deploy only when committed

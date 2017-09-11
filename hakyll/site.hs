@@ -23,6 +23,10 @@ main = hakyll $ do
     route   dropWebRoute
     compile copyFileCompiler
 
+  piimatch "acm.jar" $ do
+    route   idRoute
+    compile copyFileCompiler
+
   piimatch (fromRegex "^[0-9][0-9]_[^/]+/[^/]*\\.md") $ do
     route   $ dropClassNameRoute `composeRoutes` setHtmlExtension
     compile $ mdCompiler
@@ -100,9 +104,29 @@ pandocCompileThis = (return . writePandoc) <=< readPandoc
 mdCompiler :: Compiler (Item String)
 mdCompiler
   =   pandocCompiler
-  >>= applyAsTemplate navbarContext
+  >>= applyAsTemplate (navbarContext <> examplesContext)
   >>= loadAndApplyTemplate "web/templates/wrapper.html" wrapperContext
   >>= relativizeUrls
+
+-- augment the default context with values for, e.g., examples01
+examplesContext :: Context String
+examplesContext = mconcat [ mk_ex_ctx n | n <- [1..27] ]
+  where
+    mk_ex_ctx :: Int -> Context String
+    mk_ex_ctx n = field ("examples" ++ printf "%02d" n)
+                        (const (mk_ex_str n))
+
+    mk_ex_str :: Int -> Compiler String
+    mk_ex_str n = do
+      let ex_num_str = printf "%02d" n
+      examples <- loadAll @CopyFile (fromGlob $ ex_num_str ++ "_*/*.java")
+      let filenames = map ((\ [class_name, example_file] ->
+                              (take 2 class_name, example_file))
+                            . splitPath . toFilePath . itemIdentifier)
+                          examples
+          one_ex (num, name) = printf "<a href=\"%s/%s\">%s</a>" num name name
+          all_ex = intercalate "<br />" (map one_ex filenames)
+      return all_ex
 
 navbarContext :: Context String
 navbarContext = defaultContext <>

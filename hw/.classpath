@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="01_warmup"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/rae/Dropbox/BMC/113/acm.jar"/>
+	<classpathentry kind="var" path="ACM"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

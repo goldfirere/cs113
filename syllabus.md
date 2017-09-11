@@ -26,12 +26,12 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 2 |9/11 | * Writing a Java   |                    |                   |                   |
-|   |     |program             |                    |                   |                   |
-|   |     | * Drawing          |                    |                   |                   |
+| 2 |9/11 | * Writing a Java   |                    | \$examples02\$    |These describe     |
+|   |     |program             |                    |                   |various useful Java|
+|   |     | * Drawing          |                    |                   |commands:          |
 |   |     | * Coordinates      |                    |                   |                   |
-|   |     | * Colors           |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|   |     | * Colors           |                    |                   | * [Drawing Shapes]|
+|   |     |                    |                    |                   | * [Accessors]     |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -281,3 +281,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [Name the owl]: 01/owl.html
 [Lab01]: lab01/lab.html
 [Warmup homework]: hw01/Warmup.pdf
+[Drawing Shapes]: 02/Shapes.pdf
+[Accessors]: 02/Accessors.pdf
