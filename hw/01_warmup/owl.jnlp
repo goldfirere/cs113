@@ -7,6 +7,9 @@
     <description>Owl homework demo</description>
     <offline-allowed/> 
   </information>
+  <security>
+    <all-permissions/>
+  </security>
   <resources>
     <j2se version="1.6+" java-vm-args="-esa -Xnoclassgc"/>
     <jar href="hw.jar" main="true"/>
