@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for SwingSet2 Demo Application -->
+<jnlp spec="6.0+" >
+  <information>
+    <title>Owl demo</title>
+    <vendor>Bryn Mawr College Computer Science Department</vendor>
+    <description>Owl homework demo</description>
+    <offline-allowed/> 
+  </information>
+  <resources>
+    <j2se version="1.6+" java-vm-args="-esa -Xnoclassgc"/>
+    <jar href="hw.jar" main="true"/>
+  </resources>
+  <applet-desc main-class="Owl" name="Owl" width="200" height="200"/>
+</jnlp> 

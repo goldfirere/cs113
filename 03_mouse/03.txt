@@ -1,0 +1,22 @@
+I. Administrivia
+II. mousePressed
+III. Fields
+IV. Life cycle of programs
+V. Compound objects
+
+Administrivia (1:10-1:25)
+ - names
+ - Piazza
+ - survey
+ - groups
+
+mousePressed (1:25-1:35)
+ - Rectangles
+ - import java.awt.event.*;
+ - e.getX(), e.getY()
+ - mousePressed vs mouseMoved
+
+Fields (1:35-1:50)
+ - class-scoped stored information
+ - <type> <name>
+ - MovingRectangle

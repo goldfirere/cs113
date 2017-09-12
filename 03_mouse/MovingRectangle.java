@@ -17,7 +17,7 @@ public class MovingRectangle extends GraphicsProgram
 {
 	/*
 	 * A field declaration: First, we have the word 'private'. This word
-	 * will begin all field declarations. Then, we have the 'type' of
+	 * will begin all field declarations. Then, we have the type of
 	 * the field. A field's type tells us what sort of information the
 	 * field stores. This field will store a rect, so we say that its
 	 * type is GRect. Lastly, we give a name to our field. This field's
@@ -26,7 +26,7 @@ public class MovingRectangle extends GraphicsProgram
 	 * field stores the rect that's moving about the window.
 	 */
 	private GRect rect; // the rectangle that is moving around the
-						// window
+                      // window
 
 	/*
 	 * in the run method (remember that these chunks of code are called
@@ -34,10 +34,11 @@ public class MovingRectangle extends GraphicsProgram
 	 * declaration above only leaves aside space for one) and then put
 	 * it on the screen.
 	 */
+	@Override
 	public void run()
 	{
 		rect = new GRect(100, 100, 20, 30); // make a 20x30 rect at
-											// (100, 100)
+                                        // (100, 100)
 		add(rect); // add it to the screen
 
 		/*
@@ -52,6 +53,7 @@ public class MovingRectangle extends GraphicsProgram
 	 * within the program window. For this program, we want it to move
 	 * the rect to wherever the mouse was clicked.
 	 */
+	@Override
 	public void mousePressed(MouseEvent e) // can change to mouseMoved
 	{
 		/*

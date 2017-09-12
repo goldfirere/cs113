@@ -4,7 +4,7 @@ logfile=/autograder/submission/error.out
 
 cd /autograder/submission
 
-java_files=$(find . -name "*.java")
+java_files=$(find . -name '*.java' -and -not -path '*__MACOSX*')
 javac -cp /autograder/source/acm.jar:src:. $java_files 2> $logfile
 
 if [[ $? == 0 ]]; then
@@ -28,4 +28,5 @@ log=${log//^H/\\\b} # \b (backspace)
 cp /autograder/source/errors.json /autograder/results/results.json
 echo "$log" >> /autograder/results/results.json
 echo '"}' >> /autograder/results/results.json
+cat /autograder/results/results.json
 fi

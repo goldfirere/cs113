@@ -10,12 +10,14 @@ import java.awt.event.*;
 public class CenteredCircle extends GraphicsProgram
 {
 	// create the oval and add it to the screen:
+	@Override
 	public void run()
 	{
 		addMouseListeners();
 	}
 
 	// when the mouse clicks, set the new location of the circle:
+	@Override
 	public void mousePressed(MouseEvent e)
 	{
 		/*

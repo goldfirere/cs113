@@ -10,6 +10,7 @@ public class GrowingMovingRectangle extends GraphicsProgram
 {
 	private GRect rect; // the rect that is growing & moving
 	
+	@Override
 	public void run()
 	{
 		rect = new GRect(5, 5, 5, 5); // start in upper-left corner
@@ -19,6 +20,7 @@ public class GrowingMovingRectangle extends GraphicsProgram
 		addMouseListeners(); // turn on the mouse
 	}
 	
+	@Override
 	public void mousePressed(MouseEvent e)
 	{
 		// grow:
@@ -26,5 +28,8 @@ public class GrowingMovingRectangle extends GraphicsProgram
 		
 		// move:
 		rect.move(5, 5);
+		
+		// No mention of 'e' anywhere here -- that's because we don't
+		// care where the mouse was clicked.
 	}
 }

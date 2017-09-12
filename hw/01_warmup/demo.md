@@ -19,7 +19,7 @@ title: CS 113 Warmup Homework Demo
 
 **Part I:**
 
-<applet code="Owl.class" archive="hw.jar" width="200" height="200"></applet>
+[Owl](owl.jnlp)
 
 **Part II:**
 

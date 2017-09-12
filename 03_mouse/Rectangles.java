@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Rectangles.java
  * Desc: Draws a rectangle wherever you click
  */
@@ -9,6 +9,7 @@ import java.awt.event.*; // <-- always need this when using the mouse
 public class Rectangles extends GraphicsProgram
 {
 	// still need run to enable the mouse
+	@Override
 	public void run()
 	{
 		// this line enables mouse input. Every program that uses the
@@ -17,6 +18,7 @@ public class Rectangles extends GraphicsProgram
 	}
 
 	// this code gets run whenever the mouse is clicked
+	@Override
 	public void mousePressed(MouseEvent e)
 	{
 		/*

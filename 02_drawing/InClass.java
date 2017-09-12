@@ -1,8 +1,7 @@
-import acm.program.*;
-
 import java.awt.*;
 
 import acm.graphics.*;
+import acm.program.*;
 
 public class InClass extends GraphicsProgram
 {
