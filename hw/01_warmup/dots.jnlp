@@ -2,17 +2,17 @@
 <jnlp
   spec="6.0+"
   codebase="http://cs.brynmawr.edu/cs113/hw01"
-  href="owl.jnlp">
+  href="dots.jnlp">
   <information>
-    <title>Owl demo</title>
+    <title>Dots demo</title>
     <vendor>Bryn Mawr College Computer Science Department</vendor>
     <homepage href="http://cs.brynmawr.edu/cs113"/>
-    <description>Owl homework demo</description>
+    <description>Dots homework demo</description>
     <offline-allowed/> 
   </information>
   <resources>
     <j2se version="1.6+" java-vm-args="-esa -Xnoclassgc"/>
     <jar href="hw.jar" main="true"/>
   </resources>
-  <applet-desc main-class="Owl" name="Owl" width="200" height="200"/>
+  <applet-desc main-class="Dots" name="Dots" width="200" height="200"/>
 </jnlp> 

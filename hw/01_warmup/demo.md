@@ -23,18 +23,14 @@ title: CS 113 Warmup Homework Demo
 
 **Part II:**
 
-Dots:
-<applet code="Dots.class" archive="hw.jar" width="200" height="200"></applet>
+[Dots](dots.jnlp)
 
-Tree:
-<applet code="Tree.class" archive="hw.jar" width="200" height="200"></applet>
+[Tree](tree.jnlp)
 
 **Part III:**
 
-OneLight:
-<applet code="OneLight.class" archive="hw.jar" width="200" height="200"></applet>
+[OneLight](onelight.jnlp)
 
-ManyLights:
-<applet code="ManyLights.class" archive="hw.jar" width="200" height="200"></applet>
+[ManyLights](manylights.jnlp)
 
 </div>
