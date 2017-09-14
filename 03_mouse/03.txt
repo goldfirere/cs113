@@ -16,7 +16,26 @@ mousePressed (1:25-1:35)
  - e.getX(), e.getY()
  - mousePressed vs mouseMoved
 
-Fields (1:35-1:50)
+Fields (1:35-1:45)
  - class-scoped stored information
  - <type> <name>
  - MovingRectangle
+
+ICE: Centered circle (1:45-2:05)
+
+Life cycle of programs (2:05-2:15)
+ - run()
+ - methods
+ - commands
+ - event model
+ - "applet"
+ - extending GraphicsProgram
+
+Compound objects (2:15-2:30)
+ - Robin
+ - constructor vs method
+ - **abstraction**
+ - hotspots
+ - ShowRobin
+ - RobinBonanza
+

@@ -40,7 +40,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 3 |9/13 | * Mouse interaction| * [Warmup homework]|                   |                   |
+| 3 |9/13 | * Mouse interaction| * [Warmup homework]| \$examples03\$    |[Warmup examples]  |
 |   |     | * Data fields      |out                 |                   |                   |
 |   |     | * Types            |                    |                   |                   |
 |   |     | * Custom classes   |                    |                   |                   |
@@ -283,3 +283,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Warmup homework]: hw01/Warmup.pdf
 [Drawing Shapes]: 02/Shapes.pdf
 [Accessors]: 02/Accessors.pdf
+[Warmup examples]: hw01/demo.html
