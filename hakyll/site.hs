@@ -35,7 +35,7 @@ main = hakyll $ do
     route   $ dropClassNameRoute
     compile $ copyFileCompiler
 
-  piimatch (fromRegex "^[0-9][0-9]_[^/]+/[^0-9][^/]*\\.(pdf|txt|hs|json|java)") $ do
+  piimatch (fromRegex "^[0-9][0-9]_[^/]+/[^0-9][^/]*\\.(pdf|txt|hs|json|java|jar)") $ do
     route   $ dropClassNameRoute
     compile $ copyFileCompiler
 
@@ -43,7 +43,7 @@ main = hakyll $ do
     route   $ dropLabNameRoute `composeRoutes` setHtmlExtension
     compile $ mdCompiler
 
-  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.zip") $ do
+  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.(zip|java|pdf)") $ do
     route   $ dropLabNameRoute
     compile $ copyFileCompiler
 

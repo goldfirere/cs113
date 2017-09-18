@@ -45,16 +45,17 @@ represents my aims.
 |   |     | * Types            |                    |                   |                   |
 |   |     | * Custom classes   |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 4 |9/18 | * Methods          |                    |                   |                   |
-|   |     | * Conditionals     |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+| 4 |9/18 | * Methods          |                    | \$examples04\$    | * [`if` exercise] |
+|   |     | * Conditionals     |                    |                   | * [Methods        |
+|   |     |                    |                    |                   |exercise]          |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|   |     | * Classes          |                    |                   |                   |
-|L2 |     | * Methods          |                    |                   |                   |
+|   |     | * Classes          |                    | * [Robot.java]    | [Lab02]           |
+|L2 |     | * Methods          |                    | * [Cat.java]      |                   |
+|   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 5 |9/20 | * Boolean values   | * [Warmup homework]|                   |                   |
 |   |     | * Animation        |due                 |                   |                   |
@@ -284,3 +285,8 @@ There will be a self-scheduled final exam during the normal exam period.
 [Drawing Shapes]: 02/Shapes.pdf
 [Accessors]: 02/Accessors.pdf
 [Warmup examples]: hw01/demo.html
+[`if` exercise]: 04/exercise.html
+[Methods exercise]: 04/method.html
+[Cat.java]: lab02/Cat.java
+[Robot.java]: lab02/Robot.java
+[Lab02]: lab02/lab02.pdf

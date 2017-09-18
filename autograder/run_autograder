@@ -17,16 +17,15 @@ cat $logfile
 log=$(<$logfile)
 log=${log//\\/\\\\} # \ 
 log=${log//\//\\\/} # / 
-log=${log//\'/\\\'} # ' (not strictly needed ?)
 log=${log//\"/\\\"} # " 
-log=${log//   /\\t} # \t (tab)
+log=${log//	/\\t} # \t (tab)
 log=${log//
 /\\\n} # \n (newline)
 log=${log//^M/\\\r} # \r (carriage return)
 log=${log//^L/\\\f} # \f (form feed)
 log=${log//^H/\\\b} # \b (backspace)
 cp /autograder/source/errors.json /autograder/results/results.json
-echo "$log" >> /autograder/results/results.json
+echo -n "$log" >> /autograder/results/results.json
 echo '"}' >> /autograder/results/results.json
 cat /autograder/results/results.json
 fi

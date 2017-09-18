@@ -1,0 +1,20 @@
+I. Warmup Homework?
+II. if
+III. Methods
+IV. Style
+
+Warmup homework? (1:10-1:20)
+
+if (1:20-1:35)
+ - syntax & semantics
+ - TwoColors
+ - Intersections
+    --> mouseMoved!
+ - &&, ||, and !
+
+ICE: Black Hole (1:35-1:55)
+
+methods (1:55-2:10)
+ - ShowP / Pinocchirobin
+
+ICE2: Growing arrow (2:10-2:30)

@@ -38,14 +38,12 @@ Lab Room:                      Park 231
 Website:                       <http://cs.brynmawr.edu/cs113>
 GitHub Repo:                   <https://github.com/goldfirere/cs113>
 Piazza Q&A Forum:              <https://piazza.com/brynmawr/fall2017/cs113/home>
-TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Kennedy Ellison (<kellison@brynmawr.edu>), Sonya Fucci (<sfucci@brynmawr.edu>), Ruby Malusa (<rmalusa@brynmawr.edu>)
+TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Jocelyn Dunkley (<jdunkley@brynmawr.edu>), Kennedy Ellison (<kellison@brynmawr.edu>), Sonya Fucci (<sfucci@brynmawr.edu>), Ruby Malusa (<rmalusa@brynmawr.edu>)
 ----------------------         -----------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
 <div id="ta_hours">
-
-**TA hours will start from Sunday, Sept 10.**
 
 --------------------           ------------------------------     ----------------------
 Time                           TA                                 Location
@@ -54,9 +52,10 @@ Mondays 7-9pm                  Ruby Malusa                        Park 231
 Tuesdays 6-8pm                 Kellie Dinh                        Park 231
 Tuesdays 7-9pm                 Sonya Fucci                        Park 231
 Wednesdays 6-8pm               Kellie Dinh                        Park 231
-Wednesdays 7-9pm               Sonya Fucci                        Park 231
+Wednesdays 7-9pm               Jocelyn Dunkley                    Park 231
 Thursdays 6-8pm                Kennedy Ellison                    Park 231
 Sundays 6-8pm                  Ruby Malusa                        Park 231
+Sundays 7-9pm                  Sonya Fucci                        Park 231
 --------------------           ------------------------------     ----------------------
 </div>
 
