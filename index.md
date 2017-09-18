@@ -121,6 +121,9 @@ extensive comments, which serve essentially as lecture notes. We will be buildin
 programs on top of the [ACM Java Toolkit](http://cs.stanford.edu/people/eroberts/jtf/), which enables an easy start to
 graphical programming.
 
+* [Reference on the ACM Java Toolkit](http://cs.stanford.edu/people/eroberts/jtf/javadoc/student/index.html)
+* [acm.jar file for download](acm.jar)
+
 Our programming will be done using [Eclipse](http://eclipse.org/), a professionally-used
 *integrated development environment* (IDE). This free software is powerful and can be
 intimidating for new users. You will quickly get used to it, and we'll take some time
