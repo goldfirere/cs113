@@ -15,7 +15,6 @@ public class ShowP extends GraphicsProgram
 	{
 		robin = new Pinocchirobin();
 		robin.setLocation(100, 100);
-
 		add(robin);
 		
 		addMouseListeners();

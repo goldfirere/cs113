@@ -20,7 +20,6 @@ public class TwoColors extends GraphicsProgram
 		// first, the background:
 		background = new GRect(0, 0, 200, 200);
 		background.setFilled(true);
-		//background.setColor(Color.BLUE);
 		add(background);
 
 		// draw the line down the middle:
