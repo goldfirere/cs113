@@ -57,7 +57,7 @@ represents my aims.
 |L2 |     | * Methods          |                    | * [Cat.java]      |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 5 |9/20 | * Boolean values   | * [Warmup homework]|                   |                   |
+| 5 |9/20 | * Boolean values   | * [Warmup homework]| \$examples05\$    |                   |
 |   |     | * Animation        |due                 |                   |                   |
 |   |     |                    | * Owl project out  |                   |                   |
 |   |     |                    |                    |                   |                   |
