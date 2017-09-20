@@ -53,14 +53,14 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|   |     | * Classes          |                    | * [Robot.java]    | [Lab02]           |
-|L2 |     | * Methods          |                    | * [Cat.java]      |                   |
-|   |     |                    |                    |                   |                   |
+|   |     | * Classes          |                    | [Robot.java] <br  | [Lab02]           |
+|L2 |     | * Methods          |                    |/>                 |                   |
+|   |     |                    |                    | [Cat.java]        |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 5 |9/20 | * Boolean values   | * [Warmup homework]| \$examples05\$    |                   |
 |   |     | * Animation        |due                 |                   |                   |
-|   |     |                    | * Owl project out  |                   |                   |
-|   |     |                    |                    |                   |                   |
+|   |     |                    | * [Owl project] out|                   |                   |
+|   |     |                    | * [Owl demo]       |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -79,7 +79,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 7 |9/27 | * Return values    | * Owl project due  |                   |                   |
+| 7 |9/27 | * Return values    | * [Owl project] due|                   |                   |
 |   |     | * Handling         | * Midterm project  |                   |                   |
 |   |     |keystrokes          |out                 |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -290,3 +290,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [Cat.java]: lab02/Cat.java
 [Robot.java]: lab02/Robot.java
 [Lab02]: lab02/lab02.pdf
+[Owl project]: hw02/Owl.pdf
+[Owl demo]: hw02/Owl.jar
