@@ -49,6 +49,7 @@ TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Jocelyn Dunkl
 Time                           TA                                 Location
 Mondays 6-8pm                  Kennedy Ellison                    Park 231
 Mondays 7-9pm                  Ruby Malusa                        Park 231
+Mondays 8-10pm                 Jocelyn Dunkley                    **Hilles 110** at Haverford
 Tuesdays 6-8pm                 Kellie Dinh                        Park 231
 Tuesdays 7-9pm                 Sonya Fucci                        Park 231
 Wednesdays 6-8pm               Kellie Dinh                        Park 231

@@ -38,3 +38,7 @@ div#ta_hours tr:first-of-type {
 div#ta_hours {
     padding-top: 10px;
 }
+
+div#ta_hours td {
+    padding-right: 20px;
+}
