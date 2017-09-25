@@ -1,4 +1,4 @@
-/* Name: Richard
+/* Name: Richard Eisenberg
  * File: RandomNumbers.java
  * Desc: every time you click, shows a new random number in a new label
  */
@@ -9,14 +9,17 @@ import acm.util.*;
 
 public class RandomNumbers extends GraphicsProgram
 {
-	private RandomGenerator gen = new RandomGenerator(); // where we get our random numbers
+	// where we get our random numbers
+	private RandomGenerator gen = new RandomGenerator();
 	
+	@Override
 	public void run()
 	{
 		// just enable the mouse
 		addMouseListeners();
 	}
 	
+	@Override
 	public void mousePressed(MouseEvent e)
 	{
 		// make a new random number from 1 to 100:
@@ -24,9 +27,9 @@ public class RandomNumbers extends GraphicsProgram
 		
 		// make a label displaying that number
 		GLabel label = new GLabel("" + randy, e.getX(), e.getY());
-		// the empty double-quotes in ("" + randy) are to convert the number randy into text that can be shown in a GLabel
+		// the empty double-quotes in ("" + randy) are to convert the number
+		// randy into text that can be shown in a GLabel
 		
 		add(label);
-	}
-		
+	}	
 }

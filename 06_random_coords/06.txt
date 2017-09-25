@@ -1,0 +1,25 @@
+I. Questions?
+II. Local coordinates
+III. Gravity
+IV. Parameters
+V. (Pseudorandom number generation)
+
+Questions? (1:10-1:20)
+
+Local coordinates (1:20-1:40)
+ - Live coding: move vs setLocation
+ - Tracing Paper
+ - Phil2 / PhilBody from lab
+
+Gravity (1:40-1:55)
+ - FallingBall
+ - FallingBallObject / ShowFBObject
+
+
+- Edit my code to make three falling balls (1:55-2:10)
+
+
+
+Parameters (2:10-2:30)
+ - livecode FallingBall to BouncingBall
+ - BouncingBallObject / ShowBBObject

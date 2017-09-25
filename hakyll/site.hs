@@ -110,20 +110,28 @@ mdCompiler
 
 -- augment the default context with values for, e.g., examples01
 examplesContext :: Context String
-examplesContext = mconcat [ mk_ex_ctx n | n <- [1..27] ]
+examplesContext = mconcat [ mk_ex_ctx n | n <- [1..27] ] <> mconcat [ mk_lab_ctx n | n <- [1..13] ]
   where
     mk_ex_ctx :: Int -> Context String
     mk_ex_ctx n = field ("examples" ++ printf "%02d" n)
-                        (const (mk_ex_str n))
+                        (const (mk_ex_str False n))
 
-    mk_ex_str :: Int -> Compiler String
-    mk_ex_str n = do
+    mk_lab_ctx :: Int -> Context String
+    mk_lab_ctx n = field ("lab_examples" ++ printf "%02d" n)
+                         (const (mk_ex_str True n))
+
+    mk_ex_str :: Bool  -- False <=> normal examples; True <=> labs examples
+              -> Int -> Compiler String
+    mk_ex_str labs n = do
       let ex_num_str = printf "%02d" n
-      examples <- loadAll @CopyFile (fromGlob $ ex_num_str ++ "_*/*.java")
-      let filenames = map ((\ [class_name, example_file] ->
-                              (take 2 class_name, example_file))
-                            . splitPath . toFilePath . itemIdentifier)
-                          examples
+          fileglob   = (if labs then "labs/" else "") ++ ex_num_str ++ "_*/*.java"
+      examples <- loadAll @CopyFile (fromGlob fileglob)
+      let decompose path_components = case path_components of
+            [_labs, class_name, example_file] | labs     -> ("lab" ++ take 2 class_name, example_file)
+            [class_name, example_file]        | not labs -> (take 2 class_name, example_file)
+            _                                            -> error "bad path for examples"
+
+          filenames = map (decompose . splitPath . toFilePath . itemIdentifier) examples
           one_ex (num, name) = printf "<a href=\"%s/%s\">%s</a>" num name name
           all_ex = intercalate "<br />" (map one_ex filenames)
       return all_ex
