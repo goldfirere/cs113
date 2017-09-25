@@ -69,12 +69,12 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 6 |9/25 | * Local coordinates|                    |                   |                   |
+| 6 |9/25 | * Local coordinates|                    | \$examples06\$    |                   |
 |   |     | * Parameters       |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|   |     | * Tracing a        |                    |                   |                   |
+|   |     | * Tracing a        |                    |                   |  [Lab03]          |
 |L3 |     |projectile          |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -292,3 +292,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Lab02]: lab02/lab02.pdf
 [Owl project]: hw02/Owl.pdf
 [Owl demo]: hw02/Owl.jar
+[Lab03]: lab03/lab03.pdf
