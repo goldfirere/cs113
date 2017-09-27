@@ -71,7 +71,8 @@ represents my aims.
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 6 |9/25 | * Local coordinates|                    | \$examples06\$    |                   |
 |   |     | * Parameters       |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|   |     | * Pseudorandom     |                    |                   |                   |
+|   |     |number generation   |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 |   |     | * Tracing a        |                    |                   |  [Lab03]          |
@@ -80,10 +81,10 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 7 |9/27 | * Return values    | * [Owl project] due|                   |                   |
-|   |     | * Handling         | * Midterm project  |                   |                   |
+|   |     | * Handling         | * [Midterm project]|                   |                   |
 |   |     |keystrokes          |out                 |                   |                   |
-|   |     | * Pseudorandom     |                    |                   |                   |
-|   |     |number generation   |                    |                   |                   |
+|   |     |                    |                    |                   |                   |
+|   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -113,7 +114,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|11 |10/11| * Loops            | * Midterm project  |                   |                   |
+|11 |10/11| * Loops            | * [Midterm project]|                   |                   |
 |   |     |                    |due                 |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -293,3 +294,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Owl project]: hw02/Owl.pdf
 [Owl demo]: hw02/Owl.jar
 [Lab03]: lab03/lab03.pdf
+[Midterm project]: hw03/midterm.html

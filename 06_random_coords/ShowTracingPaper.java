@@ -59,7 +59,7 @@ public class ShowTracingPaper extends GraphicsProgram
 		tp.setLocation(e.getX(), e.getY());
 
 		// or, use this (commented out initially)
-		//tp.move();
+		//tp.moveTheRect();
 	}
 
 	@Override

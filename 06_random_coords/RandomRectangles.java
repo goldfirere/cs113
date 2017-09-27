@@ -5,6 +5,7 @@
 import acm.program.*;
 import acm.graphics.*;
 import acm.util.*;
+
 import java.awt.event.*;
 
 public class RandomRectangles extends GraphicsProgram

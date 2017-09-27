@@ -34,7 +34,7 @@ public class FallingBall extends GraphicsProgram
 	public void actionPerformed(ActionEvent e)
 	{
 		// increase the speed by a little:
-		ySpeed = ySpeed + .2;
+		ySpeed = ySpeed + .1;
 		
 		// move the ball down:
 		ball.move(0, ySpeed);

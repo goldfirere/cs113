@@ -2,6 +2,7 @@
  * File: RandomNumbers.java
  * Desc: every time you click, shows a new random number in a new label
  */
+
 import acm.program.*;
 import acm.graphics.*;
 import java.awt.event.*;

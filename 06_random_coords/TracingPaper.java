@@ -16,8 +16,8 @@ public class TracingPaper extends GCompound
 	
 	// moves the rect. should it move with rect.setLocation or just
 	// setLocation?
-	public void move()
+	public void moveTheRect()
 	{
-		rect.move(5, 0);
+		rect.setLocation(5, 0);
 	}
 }

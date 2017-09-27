@@ -1,13 +1,13 @@
 /* Name: Richard Eisenberg
- * File: Slingshot.java
- * Desc: a basic example of a slingshot using a compound object to represent the shot
+ * File: SlingshotApp.java
+ * Desc: The slingshot app with number controls
  */
 import acm.graphics.*;
 import acm.program.*;
 import java.awt.event.*;
 import acm.util.*;
 
-public class SlingshotAppProfessional extends GraphicsProgram
+public class SlingshotApp extends GraphicsProgram
 {	
 	private Slingshot shot; // the rising and falling shot
 	

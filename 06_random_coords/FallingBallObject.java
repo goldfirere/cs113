@@ -24,7 +24,7 @@ public class FallingBallObject extends GCompound
 	public void update()
 	{
 		// increase speed:
-		ySpeed = ySpeed + .2;
+		ySpeed = ySpeed + .1;
 		
 		// move ourselves. Note the use of move(...) without anything before
 		// the word move. This usage moves the whole compound object,
