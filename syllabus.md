@@ -80,8 +80,8 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 7 |9/27 | * Return values    | * [Owl project] due|                   |                   |
-|   |     | * Handling         | * [Midterm project]|                   |                   |
+| 7 |9/27 | * Return values    | * [Owl project] due| \$examples07\$    |  [Tracing paper   |
+|   |     | * Handling         | * [Midterm project]|                   |exercises]         |
 |   |     |keystrokes          |out                 |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -295,3 +295,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Owl demo]: hw02/Owl.jar
 [Lab03]: lab03/lab03.pdf
 [Midterm project]: hw03/midterm.html
+[Tracing paper exercises]: 07/tp.pdf
