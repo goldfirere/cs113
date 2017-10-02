@@ -88,7 +88,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|8  |10/2 | * Exam review      |                    |                   |                   |
+|8  |10/2 | * Exam review      |                    |                   | [Practice Exam 1] |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -296,3 +296,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Lab03]: lab03/lab03.pdf
 [Midterm project]: hw03/midterm.html
 [Tracing paper exercises]: 07/tp.pdf
+[Practice Exam 1]: 08/review1.pdf
