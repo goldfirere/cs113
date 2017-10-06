@@ -13,7 +13,7 @@ title: "CS 113: Computer Science I"
 
 \$navbar\$
 
-**You can find the placement questionnaire for this course [here](https://docs.google.com/forms/d/e/1FAIpQLSc_kEzIdDbus7Bl0xajDQ279ToEG6cyNGVSz2tfMTIVJBn6oQ/viewform?usp=sf_link).**
+**You can find the placement questionnaire for the Spring 2018 iteration of this course [here](https://goo.gl/forms/yJpMfUYicKyS4a0F3).**
 
 General information
 ===================
