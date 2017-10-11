@@ -13,7 +13,7 @@ public class Greater
 		System.out.print("Enter a number: ");
 		int num = in.nextInt();
 		
-		System.out.print("Ener another number: ");
+		System.out.print("Enter another number: ");
 		int num2 = in.nextInt();
 		
 		System.out.print("The greater number is ");

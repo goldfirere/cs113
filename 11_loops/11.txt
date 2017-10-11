@@ -2,3 +2,36 @@ example ideas:
  - divisors
  - summing digits
  - javabat?
+
+
+I. Questions?
+II. Console methods
+III. Modulus + Java arithmetic
+IV. while Exercises
+V. How to write while loops?
+
+
+Questions? (1:10-1:15)
+
+Console methods (1:15-1:25)
+ - Square
+
+Modulus (1:25-1:40)
+ - DivisibleBy3
+ - Java arithmetic
+
+while Exercises (1:40-2:05, 2:05-2:20)
+
+A perfect number is a number that is the sum of its divisors.
+
+Reversing digits
+
+Feedback (2:20-2:30)
+
+2	65
+2.3	73
+2.7	78
+3	82
+3.3	87
+3.7	90
+4	93

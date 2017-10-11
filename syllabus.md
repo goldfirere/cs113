@@ -114,7 +114,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|11 |10/11| * More loops       | * [Midterm project]|                   |                   |
+|11 |10/11| * More loops       | * [Midterm project]| \$examples11\$    | [while Exercises] |
 |   |     |                    |due                 |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -298,3 +298,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Tracing paper exercises]: 07/tp.pdf
 [Practice Exam 1]: 08/Review1.pdf
 [Lab05]: lab05/lab5.pdf
+[while Exercises]: 11/while-exercises.pdf
