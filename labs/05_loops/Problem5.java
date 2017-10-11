@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem5.java
  * Desc: prints odd numbers up to a value the user enters
  */

@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem6.java
  * Desc: prints triangular numbers up to the number the user enters
  */

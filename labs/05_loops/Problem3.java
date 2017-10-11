@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem3.java
  * Desc: counts down from a number the user enters
  */

@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem4.java
  * Desc: prints numbers 2 to 20
  */

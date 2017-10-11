@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem2.java
  * Desc: prints numbers up to a value the user enters
  */

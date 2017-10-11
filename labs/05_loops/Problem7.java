@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem7.java
  * Desc: prints Fibonacci numbers up to a user-supplied limit
  */

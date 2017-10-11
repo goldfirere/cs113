@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: Problem1.java
  * Desc: prints numbers one through ten
  */
