@@ -18,7 +18,7 @@ public class Imperfect
 		int num = in.nextInt();
 		
 		int sum = 0;
-		int i = 1;
+		int i = 0;
 		while(i <= num)
 		{
 			if(num % i == 0)
