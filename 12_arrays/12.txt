@@ -1,0 +1,21 @@
+I. ArrayLists:
+  a. Theory
+  b. Practice
+II. Exercise: Summer
+III. Debugging
+
+
+Theory (1:10-1:25)
+ - syntax
+ - reference types
+ - semantics, with a drawing
+
+Practice (1:25-1:40)
+ - List
+ - Min
+
+Summer (1:40-2:10)
+
+Debugging (2:10-2:30)
+ - Reverser
+ - IndexOutOfBoundsException (IOOBE)

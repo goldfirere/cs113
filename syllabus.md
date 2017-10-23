@@ -132,10 +132,12 @@ represents my aims.
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 |   |10/18|  **FALL BREAK**    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|12 |10/23| * `ArrayList`s     | * Primes homework  |                   |                   |
-|   |     |                    |out                 |                   |                   |
+|12 |10/23| * `ArrayList`s     | * [Primes homework]| \$examples12\$    | * [`ArrayList`    |
+|   |     |                    |out                 |                   |commands][alc]     |
+|   |     |                    |                    |                   | *                 |
+|   |     |                    |                    |                   |[Exercise][summer] |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L6 |     | * `ArrayList`      |                    |                   |                   |
+|L6 |     | * `ArrayList`      |                    | [Imperfect.java]  | [Lab 6]           |
 |   |     |exercises           |                    |                   |                   |
 |   |     | * The Eclipse      |                    |                   |                   |
 |   |     |Debugger            |                    |                   |                   |
@@ -145,7 +147,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|14 |10/30| * Data             | * Primes homework  |                   |                   |
+|14 |10/30| * Data             | * [Primes homework]|                   |                   |
 |   |     |visualization       |due                 |                   |                   |
 |   |     |                    | * Files homework   |                   |                   |
 |   |     |                    |out                 |                   |                   |
@@ -217,8 +219,8 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|21 |11/22| * FP Topics        |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|21 |11/22| * Functional       |                    |                   |                   |
+|   |     |programming         |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -299,3 +301,8 @@ There will be a self-scheduled final exam during the normal exam period.
 [Practice Exam 1]: 08/Review1.pdf
 [Lab05]: lab05/lab5.pdf
 [while Exercises]: 11/while-exercises.pdf
+[alc]: 12/arraylists.pdf
+[summer]: 12/summer.pdf
+[Lab 6]: lab06/lab06.pdf
+[Imperfect.java]: lab06/Imperfect.java
+[Primes homework]: hw04/Primes.pdf
