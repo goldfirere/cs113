@@ -142,8 +142,8 @@ represents my aims.
 |   |     | * The Eclipse      |                    |                   |                   |
 |   |     |Debugger            |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|13 |10/25| * Strings          |                    |                   |                   |
-|   |     | * Files            |                    |                   |                   |
+|13 |10/25| * Strings          |                    | \$examples13\$    | [CodingBat]       |
+|   |     | * Files            |                    |                   |practice problems  |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -306,3 +306,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Lab 6]: lab06/lab06.pdf
 [Imperfect.java]: lab06/Imperfect.java
 [Primes homework]: hw04/Primes.pdf
+[CodingBat]: http://codingbat.com/
