@@ -137,7 +137,7 @@ represents my aims.
 |   |     |                    |                    |                   | *                 |
 |   |     |                    |                    |                   |[Exercise][summer] |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L6 |     | * `ArrayList`      |                    | [Imperfect.java]  | [Lab 6]           |
+|L6 |     | * `ArrayList`      |                    |\$lab_examples06\$ | [Lab 6]           |
 |   |     |exercises           |                    |                   |                   |
 |   |     | * The Eclipse      |                    |                   |                   |
 |   |     |Debugger            |                    |                   |                   |
