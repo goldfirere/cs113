@@ -163,8 +163,8 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|15 |11/1 | * Data visualiation| * Data             |                   |                   |
-|   |     |demo                |visualization       |                   |                   |
+|15 |11/1 | * Data             | * Data             |                   |                   |
+|   |     |visualization demo  |visualization       |                   |                   |
 |   |     |                    |project out         |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |

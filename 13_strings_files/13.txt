@@ -1,0 +1,26 @@
+I. Primes?
+II. Strings
+III. Files
+
+Primes? (1:10-1:15)
+
+Strings (1:15-1:30)
+ - equals
+ - length
+ - startsWith/endsWith
+ - substring
+ - codingbat String-2 > repeatEnd
+
+In-class: (1:30-2:00)
+ String-2 > countHi, catDog, xyBalance
+
+
+Files (2:00-2:30)
+ - what a file is
+ - file extensions
+ - .txt files
+ - reader
+ - try
+ - exceptions
+ - what happens when you forget the exception
+ - IOException

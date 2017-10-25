@@ -124,6 +124,7 @@ graphical programming.
 
 * [Reference on the ACM Java Toolkit](http://cs.stanford.edu/people/eroberts/jtf/javadoc/student/index.html)
 * [acm.jar file for download](acm.jar)
+* [Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 
 Our programming will be done using [Eclipse](http://eclipse.org/), a professionally-used
 *integrated development environment* (IDE). This free software is powerful and can be

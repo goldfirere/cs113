@@ -13,3 +13,16 @@ CS topics to mention:
  - machine learning (data processing, statistics)
  - AI (search, minimax)
  - networking
+
+-----------------------------------------
+
+NOTES FOR SPRING 2018:
+
+- Use Robin for first project, not Owl. Robin just works better and removes
+  unnecessary complication.
+
+- Be much more specific about what features need to be in compound objects.
+  List the methods, perhaps.
+
+- Re-do feedback form to be more informative. The numbers just aren't all that
+helpful. I want more text.
