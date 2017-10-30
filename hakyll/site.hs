@@ -51,7 +51,7 @@ main = hakyll $ do
     route   $ homeworkRoute `composeRoutes` setExtension "html"
     compile $ mdCompiler
 
-  piimatch (fromRegex "^hw/[0-9][0-9]_[^/]+/[^/]*\\.(pdf|jar|jnlp)") $ do
+  piimatch (fromRegex "^hw/[0-9][0-9]_[^/]+/[^/]*\\.(pdf|jar|jnlp|txt)") $ do
     route   $ homeworkRoute
     compile $ copyFileCompiler
 

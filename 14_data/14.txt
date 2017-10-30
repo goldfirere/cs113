@@ -1,0 +1,47 @@
+THINGS WE NEED TO DO SOMETIME:
+
+- CSV format (II)
+- converting XLS to CSV (II)
+- dealing with commas (II)
+- String.split (II)
+- arrays vs ArrayLists (I)
+- conversions:
+  - to strings
+  - Integer.parseInt
+  - Double.parseDouble
+  - new ArrayList<>(Arrays.asList(...))
+  - arraylist.toArray(new String[0])
+- Scanner(String)
+- Scanner.useDelimiter
+- data descriptions
+- visualization (bar chart vs line chart vs pie chart)
+- datavis project
+
+I. Arrays
+
+I. Files as Data
+
+
+Arrays (1:10-1:30)
+ - creation
+ - read
+ - write
+ - Convert a lab solution to use arrays (Number3.java)
+
+Files as Data (1:30-1:55)
+ - xls files
+ - csv files
+ - conversions
+ - commas
+ - split
+
+TASK: Write a program that figures out how many lines of data are valid in the file
+
+VALIDATE (2:15-2:30)
+ - Conversions (google them!)
+    - "" + 
+    - Integer.parseInt
+    - Double.parseDouble
+    - new ArrayList<>(Arrays.asList(array))
+
+ - validate

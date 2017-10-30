@@ -147,16 +147,17 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|14 |10/30| * Data             | * [Primes homework]|                   |                   |
-|   |     |visualization       |due                 |                   |                   |
-|   |     |                    | * Files homework   |                   |                   |
-|   |     |                    |out                 |                   |                   |
-|   |     |                    |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|14 |10/30| * Data             | * [Primes homework]| \$examples14\$    | * [gands.xls] --  |
+|   |     |visualization       |due                 |                   |data we will be    |
+|   |     |                    | * [Files homework] |                   |analyzing          |
+|   |     |                    |out                 |                   | * [gands.csv] --  |
+|   |     |                    |                    |                   |reformatted data   |
+|   |     |                    |                    |                   | * [alice.txt] --  |
+|   |     |                    |                    |                   |Text of *Alice's   |
+|   |     |                    |                    |                   |Adventures in      |
+|   |     |                    |                    |                   |Wonderland*        |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L7 |     | * Working with     |                    |                   |                   |
+|L7 |     | * Working with     |                    |                   | [Lab 7]           |
 |   |     |files               |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -170,7 +171,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|16 |11/6 | * Interfaces       | * Files homework   |                   |                   |
+|16 |11/6 | * Interfaces       | * [Files homework] |                   |                   |
 |   |     | * Polymorphism     |due                 |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -307,3 +308,6 @@ There will be a self-scheduled final exam during the normal exam period.
 [Imperfect.java]: lab06/Imperfect.java
 [Primes homework]: hw04/Primes.pdf
 [CodingBat]: http://codingbat.com/
+[alice.txt]: hw05/alice.txt
+[Files homework]: hw05/Files.pdf
+[Lab 7]: lab07/Lab7.pdf
