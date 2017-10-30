@@ -14,14 +14,14 @@ public class Number3
 		int numOfNums = in.nextInt();
 		in.nextLine();
 
-		ArrayList<Integer> nums = new ArrayList<Integer>();
+		int[] nums = new int[numOfNums];
 
 		int i = 0;
 		while(i < numOfNums)
 		{
 			System.out.print("Enter a number: ");
 
-			nums.add(in.nextInt());
+			nums[i] = in.nextInt();
 			in.nextLine();
 
 			i = i + 1;
@@ -30,15 +30,15 @@ public class Number3
 		System.out.print("You entered {");
 		
 		i = 0;
-		while(i < nums.size() - 1)
+		while(i < nums.length - 1)
 		{
-			System.out.print(nums.get(i) + ", ");
+			System.out.print(nums[i] + ", ");
 			
 			i = i + 1;
 		}
-		if(nums.size() > 0)
+		if(nums.length > 0)
 		{
-			System.out.print(nums.get(nums.size() - 1));
+			System.out.print(nums[nums.length - 1]);
 		}
 		System.out.println("}.");
 
@@ -47,7 +47,7 @@ public class Number3
 		i = 0;
 		while(i < numOfNums)
 		{
-			sum = sum + nums.get(i);
+			sum = sum + nums[i];
 
 			i = i + 1;
 		}

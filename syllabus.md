@@ -311,3 +311,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [alice.txt]: hw05/alice.txt
 [Files homework]: hw05/Files.pdf
 [Lab 7]: lab07/Lab7.pdf
+[gands.xls]: 14/gands.xls
+[gands.csv]: 14/gands.csv

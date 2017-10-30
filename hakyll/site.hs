@@ -35,7 +35,7 @@ main = hakyll $ do
     route   $ dropClassNameRoute
     compile $ copyFileCompiler
 
-  piimatch (fromRegex "^[0-9][0-9]_[^/]+/[^0-9][^/]*\\.(pdf|txt|hs|json|java|jar)") $ do
+  piimatch (fromRegex "^[0-9][0-9]_[^/]+/[^0-9][^/]*\\.(pdf|txt|hs|json|java|jar|xls|csv)") $ do
     route   $ dropClassNameRoute
     compile $ copyFileCompiler
 
