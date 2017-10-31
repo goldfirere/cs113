@@ -164,9 +164,9 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|15 |11/1 | * Data             | * Data             |                   |                   |
-|   |     |visualization demo  |visualization       |                   |                   |
-|   |     |                    |project out         |                   |                   |
+|15 |11/1 | * Data classes     | * Data             | \$examples15\$    |                   |
+|   |     | * Data             |visualization       |                   |                   |
+|   |     |visualization demo  |project out         |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |

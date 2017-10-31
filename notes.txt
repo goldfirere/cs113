@@ -26,3 +26,7 @@ NOTES FOR SPRING 2018:
 
 - Re-do feedback form to be more informative. The numbers just aren't all that
 helpful. I want more text.
+
+- Make *requirements* in each homework assignment to clarify the process.
+
+- Consider making the first exam online.
