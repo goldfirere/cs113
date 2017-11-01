@@ -28,5 +28,17 @@ NOTES FOR SPRING 2018:
 helpful. I want more text.
 
 - Make *requirements* in each homework assignment to clarify the process.
+  Specifically check requirements in midterm project against rubric.
 
 - Consider making the first exam online.
+
+- Don't have projects due on the second meeting time of the week. Reason: it makes
+  it very awkward to have lab time devoted to the project.
+
+- Specify that lines of code with no effect will be penalized.
+
+- Teach about constants and require them. This may force students to think about
+  coordinates more on the midterm project.
+
+- On midterm project, remind students that shapes within compound objects should
+  be near (0, 0).

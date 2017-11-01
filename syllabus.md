@@ -157,15 +157,15 @@ represents my aims.
 |   |     |                    |                    |                   |Adventures in      |
 |   |     |                    |                    |                   |Wonderland*        |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L7 |     | * Working with     |                    |                   | [Lab 7]           |
+|L7 |     | * Working with     |                    | \$lab_examples07\$| [Lab 7]           |
 |   |     |files               |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|15 |11/1 | * Data classes     | * Data             | \$examples15\$    |                   |
-|   |     | * Data             |visualization       |                   |                   |
+|15 |11/1 | * Data classes     | * [Data            | \$examples15\$    |                   |
+|   |     | * Data             |visualization]      |                   |                   |
 |   |     |visualization demo  |project out         |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -176,18 +176,18 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L8 |     |                    | * Data             |                   |                   |
-|   |     |                    |visualization sketch|                   |                   |
-|   |     |                    |checked in lab      |                   |                   |
-|   |     |                    |                    |                   |                   |
+|L8 |     |                    | * [Data            |                   |                   |
+|   |     |                    |visualization]      |                   |                   |
+|   |     |                    |sketch checked in   |                   |                   |
+|   |     |                    |lab                 |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 |17 |11/8 | * Final project    | * Final project out|                   |                   |
 |   |     |discussion          |                    |                   |                   |
 |   |     |  * Interfaces      |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|18 |11/13| * Sub-typing       | * Data             |                   |                   |
-|   |     |                    |visualization       |                   |                   |
+|18 |11/13| * Sub-typing       | * [Data            |                   |                   |
+|   |     |                    |visualization]      |                   |                   |
 |   |     |                    |project due         |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -313,3 +313,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Lab 7]: lab07/Lab7.pdf
 [gands.xls]: 14/gands.xls
 [gands.csv]: 14/gands.csv
+[Data visualization]: hw06/Data.pdf
