@@ -42,3 +42,5 @@ helpful. I want more text.
 
 - On midterm project, remind students that shapes within compound objects should
   be near (0, 0).
+
+- Remember to update settings file to ignore resource leaks.

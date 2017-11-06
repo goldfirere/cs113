@@ -1,0 +1,20 @@
+I. ArrayLists in GraphicsPrograms
+II. DarkeningCircle
+III. Java Object Model
+
+ArrayLists (1:10-1:35)
+ - LeftRightSquares
+ - ManyLines
+ - BlackHoles
+
+ - GrowingRectangles
+
+Activity (1:35-2:05)
+
+Java Object Model (2:05-2:30)
+ - stack frames
+ - primitive vs reference
+ - methods = sending messages
+ - MutableInteger / SwapMI
+ - `static`
+ 

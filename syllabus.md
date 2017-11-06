@@ -171,20 +171,22 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|16 |11/6 | * Interfaces       | * [Files homework] |                   |                   |
-|   |     | * Polymorphism     |due                 |                   |                   |
+|16 |11/6 | * `ArrayList`s in  | * [Files homework] | \$examples16\$    | [`ArrayList`s in  |
+|   |     |`GraphicsProgram`s  |due                 |                   |`GraphicsProgram`s |
+|   |     | * Java Object Model|                    |                   |activity][algp]    |
+|   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L8 |     |                    | * [Data            |                   |                   |
-|   |     |                    |visualization]      |                   |                   |
-|   |     |                    |sketch checked in   |                   |                   |
+|L8 |     | * Time for data    | * [Data            |                   |                   |
+|   |     |visualization       |visualization]      |                   |                   |
+|   |     |project             |sketch checked in   |                   |                   |
 |   |     |                    |lab                 |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 |17 |11/8 | * Final project    | * Final project out|                   |                   |
 |   |     |discussion          |                    |                   |                   |
 |   |     |  * Interfaces      |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|   |     |  * Polymorphism    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 |18 |11/13| * Sub-typing       | * [Data            |                   |                   |
 |   |     |                    |visualization]      |                   |                   |
@@ -314,3 +316,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [gands.xls]: 14/gands.xls
 [gands.csv]: 14/gands.csv
 [Data visualization]: hw06/Data.pdf
+[algp]: 16/exercise.pdf
