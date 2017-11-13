@@ -190,15 +190,15 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|18 |11/13|                    | * [Data            |                   |                   |
-|   |     | * Interfaces       |visualization]      |                   |                   |
-|   |     | * Polymorphism     |project due         |                   |                   |
-|   |     | * Sub-typing       |                    |                   |                   |
+|18 |11/13| * Two-dimensional  | * [Data            | \$examples18\$    | [Array exercises] |
+|   |     |arrays              |visualization]      |                   |                   |
+|   |     | * Array exercises  |project due         |                   |                   |
+|   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L9 |     |                    |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
+|L9 |     | * Array and string |                    |                   | [Lab 9]           |
+|   |     |exercises           |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -322,3 +322,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [Data visualization]: hw06/Data.pdf
 [algp]: 16/exercise.pdf
 [Final project]: hw07/Final.pdf
+[Array exercises]: 18/Arrays.pdf
+[Lab 9]: lab09/Lab9.pdf

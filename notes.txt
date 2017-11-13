@@ -44,3 +44,6 @@ helpful. I want more text.
   be near (0, 0).
 
 - Remember to update settings file to ignore resource leaks.
+
+- Fix primes rubric to specifically mention the factors that are printed at the
+  end. They must multiply to the original
