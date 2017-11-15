@@ -205,7 +205,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|19 |11/15|  * Review          | * [Final project]  |                   |                   |
+|19 |11/15|  * Review          | * [Final project]  |\$examples19\$     | [Exam 2 review]   |
 |   |     |                    |proposals due       |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -324,3 +324,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Final project]: hw07/Final.pdf
 [Array exercises]: 18/Arrays.pdf
 [Lab 9]: lab09/Lab9.pdf
+[Exam 2 review]: 19/Review.pdf
