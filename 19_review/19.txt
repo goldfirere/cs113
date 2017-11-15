@@ -1,0 +1,18 @@
+I. null
+II. static
+
+
+null -- demonstrate
+
+static -- demonstrate
+
+Review:
+ exam will cover:
+   - loops
+   - arithmetic (modulus and division)
+   - arrays
+   - arraylists
+   - strings
+   - aliasing
+   - no null
+   - no static
