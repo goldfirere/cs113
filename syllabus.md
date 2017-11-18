@@ -205,9 +205,9 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|19 |11/15|  * Review          | * [Final project]  |\$examples19\$     | [Exam 2 review]   |
-|   |     |                    |proposals due       |                   |                   |
-|   |     |                    |                    |                   |                   |
+|19 |11/15|  * Review          | * [Final project]  |\$examples19\$     | * [Exam 2 review] |
+|   |     |                    |proposals due       |                   | * [Exam 2         |
+|   |     |                    |                    |                   |reference]         |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -328,3 +328,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [music.mp3]: 20/music.mp3
 [hitchhiker.jpg]: 20/hitchhiker.jpg
 [moo.wav]: 20/moo.wav
+[Exam 2 reference]: 20/Reference.pdf
