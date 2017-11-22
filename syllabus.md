@@ -226,8 +226,8 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|21 |11/22| * Functional       |                    |                   |                   |
-|   |     |programming         |                    |                   |                   |
+|21 |11/22| * Functional       |                    |                   | [Haskell          |
+|   |     |programming         |                    |                   |exercises]         |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -252,7 +252,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|24 |12/4 |                    |                    |                   |                   |
+|24 |12/4 | * Recursion        |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -329,3 +329,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [hitchhiker.jpg]: 20/hitchhiker.jpg
 [moo.wav]: 20/moo.wav
 [Exam 2 reference]: 20/Reference.pdf
+[Haskell exercises]: 21/exercises.pdf

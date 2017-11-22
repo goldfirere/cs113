@@ -12,3 +12,4 @@ _cache
 /.metadata/
 bin
 java.policy.applet
+*.ptb
