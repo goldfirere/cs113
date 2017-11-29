@@ -247,8 +247,8 @@ represents my aims.
 |   |     |on Wednesday        |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|23 |11/29| * Check prototypes |                    |                   |                   |
-|   |     | * Recursion        |                    |                   |                   |
+|23 |11/29| * Check prototypes |                    |                   | [Recursion        |
+|   |     | * Recursion        |                    |                   |exercises]         |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -330,3 +330,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [moo.wav]: 20/moo.wav
 [Exam 2 reference]: 20/Reference.pdf
 [Haskell exercises]: 21/exercises.pdf
+[Recursion exercises]: 23/Recursion.pdf

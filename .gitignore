@@ -13,3 +13,5 @@ _cache
 bin
 java.policy.applet
 *.ptb
+*.o
+*.hi
