@@ -247,7 +247,7 @@ represents my aims.
 |   |     |on Wednesday        |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|23 |11/29| * Check prototypes |                    |                   | [Recursion        |
+|23 |11/29| * Check prototypes |                    |\$examples23\$     | [Recursion        |
 |   |     | * Recursion        |                    |                   |exercises]         |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
