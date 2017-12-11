@@ -47,3 +47,5 @@ helpful. I want more text.
 
 - Fix primes rubric to specifically mention the factors that are printed at the
   end. They must multiply to the original
+
+- Include basic code-reading (short answer) questions on exams. Like: what is x after this statement? How many elements does this array hold? Etc.

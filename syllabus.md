@@ -274,7 +274,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L13|     | * Final exam review|                    |                   |                   |
+|L13|     | * Final exam review|                    |                   | [Review problems] |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -331,3 +331,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Exam 2 reference]: 20/Reference.pdf
 [Haskell exercises]: 21/exercises.pdf
 [Recursion exercises]: 23/Recursion.pdf
+[Review problems]: lab13/Review.pdf
