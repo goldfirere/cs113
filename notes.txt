@@ -49,3 +49,64 @@ helpful. I want more text.
   end. They must multiply to the original
 
 - Include basic code-reading (short answer) questions on exams. Like: what is x after this statement? How many elements does this array hold? Etc.
+
+- Also, consider testing files and I/O on exams.
+
+- And classes.
+
+- Organization counts on FP (repetitve code)
+
+- Require the appropriate use of data classes on dataviz project.
+
+- dataviz: have students include citation of data source.
+
+- dataviz: avoid magic numbers in code. Instead, read them from the file.
+
+- Tell students that smaller scopes are better. And hold them accountable.
+
+- Talk about homework length expectations.
+
+- What they hand in must be presentable.
+
+- All numbers in code should be reasoned about. Well, maybe not all numbers.
+
+- Dataviz: require a scale.
+
+- Grade for intentionality. That means I can take off for accidentally-correct code.
+
+- Teach how to use, e.g., TextField in a GraphicsProgram
+
+- Be more explicit about new vocabulary: "class", "method", "parameter", etc.
+
+- How can students practice design before the FP?
+
+- Tell students how hard the homework is. And that it gets harder.
+
+- Students like the creativity and open-endedness in the last two projects.
+  Could I incorporate this earlier? I don't think so, not without a formal
+  proposal process. Oh well -- not everything is perfect.
+
+- Spread out grading percentage? There's a lot right at the end.
+
+- Lay out what a class is more clearly. Give examples. Talk more about OOD, even
+  if we don't have inheritance. Students are perhaps more capable of dealing with
+  abstraction than I think.
+
+- More small problems (codingbat-ish) earlier.
+
+- Introduce keyReleased in class.
+
+- Talk about partnerwork expectations in class 1 or 2.
+
+- Connect exams more to homework. But how? I want to test array recipes, etc., but
+  most assignments won't have these.
+
+- Tweak Files assignment (especially around newlines). Do students have enough
+  prep for the assignment?
+
+- Tell students that I sometimes struggle to teach "concepts" instead of just
+  blasting through code. Ask for help in identifying where we need more time
+  on a concept.
+
+- Mini-homeworks that are gone over (but not handed in)? I guess these are like
+  labs. But I should go over labs more.
