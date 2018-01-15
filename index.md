@@ -33,8 +33,7 @@ Office Hours:                  Wednesdays 9:30-11:30am
 Lecture:                       TR 12:55-2:15pm
 Lecture Room:                  Park 338
 Lecture Recordings:            at Tegrity: access via [Moodle](https://moodle.brynmawr.edu/course/view.php?id=1072); look for link on right side of screen.
-Labs:                          T 2:25-3:15pm; R 11:55am-12:45pm (you may register for either one)
-Lab Room:                      Park 231
+Labs:                          T 2:25-3:15pm, Park 231; R 11:55am-12:45pm, Park 128 (you may register for either one)
 Website:                       <http://cs.brynmawr.edu/cs113>
 GitHub Repo:                   <https://github.com/goldfirere/cs113>
 Piazza Q&A Forum:              <https://piazza.com/brynmawr/spring2018/cs113/home>
