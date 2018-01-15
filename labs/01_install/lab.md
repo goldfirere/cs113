@@ -5,7 +5,7 @@ title: CS 113 Lab 1
 <div id="header">
 
 | **CS 113 Lab #1**
-| Fall 2017
+| Spring 2018
 
 </div>
 
@@ -23,7 +23,7 @@ we have to install the software.
 
 The instructions below sometimes call out special instructions for macOS and
 for Windows users. If you have neither of these (because you have Linux, or
-something even more exotic), then just do your best. We're happy to help.
+something even more exotic), then just do your best. I'm happy to help.
 
 1. Configure your computer to show file extensions:
 
@@ -34,9 +34,9 @@ something even more exotic), then just do your best. We're happy to help.
       If you also want to see hidden files (useful, but not strictly necessary,
       for the `.metadata` folder we'll be encountering soon):
 
-      - macOS Sierra (v10.12): In any Finder window, press Cmd-Shift-.
+      - macOS Sierra/High Sierra (v10.12 or v10.13): In any Finder window, press Cmd-Shift-.
 
-      - Previous versions: See the "long way" instructions [here](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/). (It's not very long!)
+      - Previous versions of macOS: See the "long way" instructions [here](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/). (It's not very long!)
 
    *  On Windows: [Read this](https://www.howtohaven.com/system/show-file-extensions-in-windows-explorer.shtml). These instructions also have you show hidden files/folders,
       which I have found more necessary on Windows than on Mac.
@@ -64,7 +64,7 @@ something even more exotic), then just do your best. We're happy to help.
    `.metadata` folder contains convenient settings for Eclipse, the main program we will
    use to write Java code.
 
-4. Download Eclipse by clicking the main download button on [this page](https://www.eclipse.org/downloads/) and following the instructions. On a Mac, you get a compressed file you will have to
+4. Download Eclipse by clicking the main download button on [this page](https://www.eclipse.org/downloads/) ("Get Eclipse OXYGEN") and following the instructions. On a Mac, you get a compressed file you will have to
 double-click to expand; Windows users just get the installer `exe` directly. Either way, run
 the installer.
 
@@ -153,7 +153,7 @@ public class HelloWorld extends GraphicsProgram
 }
 ```
     
-   Be very careful about punctuation and capitalization here. Java is very sensitive
+   Be very careful about punctuation and capitalization here. Java is sensitive
    to these details!
 
 13. The program is now ready to run. Run it as an applet by clicking the "play" button
@@ -182,19 +182,30 @@ affect the way the program runs.
 but submitting allows us to work out any kinks in the submission system. You will
 be using [Gradescope](https://gradescope.com/) for submitting all the work in this
 course; the site also allows the course staff to return graded work to you. Go to
-the Gradescope website and sign up. (It's free, and Gradescope meets the privacy
+the Gradescope website and sign up. (It's free for students, and Gradescope meets the privacy
 requirements of handling student data.) Use your College email address. When
 filling out your name, write it **surname first**; I would enter `Eisenberg, Richard`.
 (This helps connect to other systems working behind the scenes. Surnames are less
 fungible than forenames!)
 
     At some point during the registration process, you will need a course code; this
-    is what Gradescope uses to link your account with mine. This code is **`9GEE87`**.
+    is what Gradescope uses to link your account with mine. This code is **`9GEG3Y`**.
 
-17. Submit your `HelloWorld.java` file as your submission for lab01. You can find this
-file in your `cs113` folder, then in the `Lab 01 -- Hello, World!` folder, and then
-in the `src` folder. (`src` stands for "source", as in "source code".)
+17. Export your project:
 
-18. When you're all done, call me over and tell me of your success.
+    a. Select your `Lab 01` project in Eclipse.
+    b. Right-click and choose to `Export...`
+    c. The `Export` dialog box appears. Under `General`, choose `Archive File` and
+       click `Next`.
+    d. Make sure your project is selected in the list at the top-left of the window
+       and that `Save in zip format` and `Create directory structure for files` are
+       selected toward the bottom.
+    e. `Browse...` to find a good spot to save the file that wil be exported. Name
+       the file `Lab01.zip`.
+    f. Click `Finish`. Eclipse will create `Lab01.zip` as directed.
 
-19. If you have time, play around. See what you can draw!
+18. Submit your `Lab01.zip` file as your submission for lab01. 
+
+19. When you're all done, call me over and tell me of your success.
+
+20. If you have time, play around. See what you can draw!

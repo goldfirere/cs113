@@ -21,7 +21,7 @@ clean:
 deploy:
 	[[ -z `git status -s` ]]  # deploy only when committed
 	[[ `git status -sb` == '## master...origin/master' ]]  # deploy when pushed
-	rsync -crptz --delete -e ssh --progress _site/ bmc:~/public_html/courses/113-17fa
+	rsync -crptz --delete -e ssh --progress _site/ bmc:~/public_html/courses/113-18sp
           # c == use checksums
           # r == recursive
           # p == keep permissions

@@ -15,6 +15,10 @@ import Debug.Trace
 
 main :: IO ()
 main = hakyll $ do
+  piimatch "placement.html" $ do
+    route   idRoute
+    compile copyFileCompiler
+
   piimatch "web/css/*" $ do
     route   dropWebRoute
     compile compressCssCompiler

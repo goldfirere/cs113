@@ -6,31 +6,78 @@ title: CS 113 Policies
 
 | **CS 113 Course Policies**
 | Prof. Richard Eisenberg
-| Fall 2017
+| Spring 2018
 
 </div>
 
 \$navbar\$
 
+Prerequisites
+=============
+
+This course is an *introductory* course in computer science and computer programming.
+You do *not* need to have any computer science experience before entering this course.
+However, you *do* need to have a level of mathematical proficiency in order to enroll.
+Much of computer science is essentially a branch of applied mathematics, and we will
+use math frequently to describe the solutions to problems. It is expected that you
+use mathematical thinking while programming.
+
+In order to enroll, all students must be placed into the course, following the
+guidelines on the [placement questionnaire](placement.html).
+
+Workload
+--------
+
+It is my expectation that this course is difficult. The reward is that you will
+graduate from it knowing how to program! I expect that you will
+have to spend 6-8 hours working outside of class/lab every week. For a two-week
+assignment, this means that the assignment might take 12-16 hours or more.
+One of the common refrains I have heard from students completing introductory
+programming courses is that they wish they had started assignments earlier.
+Don't make this same mistake.
+
 Grading
 =======
 
-<div id="grading_table">
+<div class="grading_table">
 
 ----------------------------  --------------
 Participation                   5%
 <span class="strut" />
 Homeworks (3 of them)           5%
-Owl project                     5%
-Midterm project                10%
+Robin project                  10%
+Midterm project                15%
 Data visualization project     10%
 Final project                  25%
 <span class="strut" />
 Exam 1                         10%
 Exam 2                         10%
-Final exam                     20%
+Exam 3                         10%
 <span class="strut" />
 Total                          100%
+----------------------------  --------------
+
+</div>
+
+Individual assingments/exams will be graded on a percentage basis. At the
+end of the semester, these grades will be translated into the 4-point scale
+roughly according to the following table (without rounding):
+
+<div class="grading_table">
+
+----------------------------  --------------
+**Percentage**                **Grade**
+0-50%                         0.0
+50-57%                        1.0
+57-63%                        1.3
+63-69%                        1.7
+69-74%                        2.0
+74-78%                        2.3
+78-82%                        2.7
+82-86%                        3.0
+86-90%                        3.3
+90-94%                        3.7
+94-100%                       4.0
 ----------------------------  --------------
 
 </div>
@@ -53,6 +100,15 @@ Guide](style.html), which dictates how you should write your code. Programming
 is an act of communication both between you and a computer *and* between you and
 another human. In some sense, correctness is about the former,
 while style is about the latter.
+
+Your submitted work is a reflection of your progress in this course and your
+level of attention to detail as a student. You should always strive to submit
+your best work, free of messy formatting, spelling errors, and careless errors.
+The programs you write will often interact with the user; you should strive to
+make the user's experience pleasant and your programs easy to use.
+
+Assignments will be returned (via Gradescope) with comments. Please read these
+comments, and feel free to ask any questions if you need further clarification.
 
 Homework vs. Projects
 ---------------------
@@ -87,12 +143,17 @@ a [pull request](https://github.com/goldfirere/cs113/pulls) against the `cs113` 
 Exams
 -----
 
-This course has three exams: two midterms on Oct. 4 and Nov. 20, as well
-as a self-scheduled final exam during the usual exams period.
+This course has three exams: TODO, TODO, and TODO.
 Exams will be open-book and
 open-note, but you will not be able to interact with a computer.
-
 More details will be discussed as the exams approach.
+
+If you miss an exam without emailing me first, you will get a 0 on that
+exam. Changes to the exam schedule will be considered only in extreme
+circumstances.
+
+There is no exam during the exam period; instead, there is a final project.
+Details will be announced when they become available.
 
 Late policy
 ===========
@@ -108,6 +169,8 @@ is late will not lead to a penalty. These late days are intended to account for
 unexpected bugs, minor illnesses, planned travel, etc. I will grant further
 extensions only in rare circumstances. You do not have to request to use a late day;
 they are automatically granted.
+
+Late days may *not* be used on the final project.
 
 Group work policy
 =================
@@ -148,13 +211,18 @@ approaches with your classmates, **never share code**, and **never submit code
 you found online**. Violators of this policy will be asked to report
 themselves to the [Honor Board](http://sga.blogs.brynmawr.edu/honor-board/).
 
+If you use a website or other resource to help in your work, **you must cite**
+that resource. A comment in your code with a link is sufficient; I am not
+particular about citation format. It is assumed that you can use any resource
+posted on this website on any assignment; all other resources must be cited.
+
 If you have a question, post on [Piazza].
 
 Piazza
 ======
 
 There is a course question-and-answer forum at
-<https://piazza.com/brynmawr/fall2017/cs113/home>. This forum is hosted by an
+<https://piazza.com/brynmawr/spring2018/cs113/home>. This forum is hosted by an
 educational service, Piazza, and it will be the primary means of electronic
 communication in this course. It is free to use. Piazza offers the ability to ask
 questions anonymously (either anonymous to everyone or only to fellow students, but not
@@ -196,7 +264,7 @@ website](http://www.brynmawr.edu/access_services/).
 Meetings
 ========
 
-My office hours for Fall 2017 are Tuesdays 1:30-3:30.
+My office hours for Spring 2018 are Wednesdays 9:30-11:30am.
 This means that, at
 these hours, I am guaranteed to be in my office and expecting visitors -- and
 I really do want visitors. During class, it's hard to get to know all of you,
@@ -216,5 +284,5 @@ open!
 For a broader discussion than just homework questions, I'd be happy to join
 you for lunch in the dining hall. Just email or ask!
 
-[Piazza]: https://piazza.com/brynmawr/fall2017/cs113/home
+[Piazza]: https://piazza.com/brynmawr/spring2018/cs113/home
 [Gradescope]: https://gradescope.com/

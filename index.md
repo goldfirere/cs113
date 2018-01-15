@@ -6,14 +6,14 @@ title: "CS 113: Computer Science I"
 
 | **CS 113: Computer Science I**
 | Prof. Richard Eisenberg
-| Fall 2017
+| Spring 2018
 | Bryn Mawr College
 
 </div>
 
 \$navbar\$
 
-**You can find the placement questionnaire for the Spring 2018 iteration of this course [here](https://goo.gl/forms/yJpMfUYicKyS4a0F3).**
+**You can find the placement questionnaire for the Spring 2018 iteration of this course [here](placement.html).**
 
 General information
 ===================
@@ -27,22 +27,22 @@ Office Phone:                  610-526-5061
 Home Phone (emergencies only): 484-344-5924
 Cell Phone (emergencies only): 201-575-6474 (no texts, please)
 Office:                        Park 204
-Office Hours:                  Mondays 3:30-4:30pm, Tuesdays 1:30pm-2:30pm
+Office Hours:                  Wednesdays 9:30-11:30am
                                If these don't work, do not fret. Email instead.
 <span class="strut" />
-Lecture:                       MW 1:10-2:30
+Lecture:                       TR 12:55-2:15pm
 Lecture Room:                  Park 338
-Lecture Recordings:            at Tegrity: access via [Moodle](https://moodle.brynmawr.edu/course/view.php?id=214); look for link on right side of screen.
-Labs:                          M 2:40-3:30; W 12:10-1:00 (you may register for either one)
+Lecture Recordings:            at Tegrity: access via [Moodle](https://moodle.brynmawr.edu/course/view.php?id=1072); look for link on right side of screen.
+Labs:                          T 2:25-3:15pm; R 11:55am-12:45pm (you may register for either one)
 Lab Room:                      Park 231
 Website:                       <http://cs.brynmawr.edu/cs113>
 GitHub Repo:                   <https://github.com/goldfirere/cs113>
-Piazza Q&A Forum:              <https://piazza.com/brynmawr/fall2017/cs113/home>
-TAs:                           Kellie Dinh (<kdinh@brynmawr.edu>), Jocelyn Dunkley (<jdunkley@brynmawr.edu>), Kennedy Ellison (<kellison@brynmawr.edu>), Sonya Fucci (<sfucci@brynmawr.edu>), Ruby Malusa (<rmalusa@brynmawr.edu>)
+Piazza Q&A Forum:              <https://piazza.com/brynmawr/spring2018/cs113/home>
+TAs:                           TBD
 ----------------------         -----------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
-
+<!--
 <div id="ta_hours">
 
 --------------------           ------------------------------     ----------------------
@@ -59,6 +59,7 @@ Sundays 6-8pm                  Ruby Malusa                        Park 231
 Sundays 7-9pm                  Sonya Fucci                        Park 231
 --------------------           ------------------------------     ----------------------
 </div>
+-->
 
 Goals of course
 ---------------
@@ -69,6 +70,7 @@ By the end of this course, you will be able to...
 
 * write standalone computer programs in the Java programming language
 * design and write simple games and animations
+* process and visualize real-world data sets
 * decompose a problem into its component parts
 * explain the structure of the discipline of computer science
 
@@ -124,7 +126,7 @@ graphical programming.
 
 * [Reference on the ACM Java Toolkit](http://cs.stanford.edu/people/eroberts/jtf/javadoc/student/index.html)
 * [acm.jar file for download](acm.jar)
-* [Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
+* [Java 8 API Reference](https://docs.oracle.com/javase/8/docs/api/)
 
 Our programming will be done using [Eclipse](http://eclipse.org/), a professionally-used
 *integrated development environment* (IDE). This free software is powerful and can be

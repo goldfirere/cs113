@@ -1,0 +1,21 @@
+data handling: 15
+ - file I/O: 5
+ - split / decomposition: 5
+ - data storage: 5
+    (-2) for no use of a data class if one should have been used
+
+drawing: 10
+ - use of rescale: 6
+ - intentionality: 4
+
+presentation of data: 10
+ - data accurately represented: 6
+ - decorations (legend / labels): 4
+
+interactivity: 10
+ - functionality: 8
+ - appropriateness: 2
+
+style: 5
+
+TOTAL: 50

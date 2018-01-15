@@ -43,8 +43,6 @@ helpful. I want more text.
 - On midterm project, remind students that shapes within compound objects should
   be near (0, 0).
 
-- Remember to update settings file to ignore resource leaks.
-
 - Fix primes rubric to specifically mention the factors that are printed at the
   end. They must multiply to the original
 
@@ -110,3 +108,9 @@ helpful. I want more text.
 
 - Mini-homeworks that are gone over (but not handed in)? I guess these are like
   labs. But I should go over labs more.
+
+----------------------------------------------------------------
+DONE NOTES (SPRING 2018)
+
+- Remember to update settings file to ignore resource leaks.
+

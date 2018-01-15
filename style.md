@@ -6,7 +6,7 @@ title: CS 113 Style Guide
 
 | **CS 113 Style Guide**
 | Prof. Richard Eisenberg
-| Fall 2017
+| Spring 2018
 
 </div>
 
@@ -22,7 +22,7 @@ modify your code in the future.
 
 While I do not expect anyone (including myself) to follow all the rules,
 [here](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html) is a *very* detailed
-guide used as an inspiration for the notes below.
+guide used as an inspiration (adapted for Java) for the notes below.
 
 Naming Conventions
 ------------------

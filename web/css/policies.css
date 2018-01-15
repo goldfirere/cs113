@@ -1,8 +1,8 @@
-div#grading_table {
+div.grading_table {
     margin-left: 5px;
     font-weight: bold;
 }
 
-div#grading_table tr td:nth-child(2) {
+div.grading_table tr td:nth-child(2) {
     text-align: right;
 }

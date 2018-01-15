@@ -1,6 +1,8 @@
 I. Introductions
 II. Computer Science I
 III. Tour of CS
+IV. Administrivia
+V. Punctuation
 
 Introductions (0-6)
  - Background
@@ -25,7 +27,7 @@ CS1 (6-35)
  - Homework is spent *coding*.
  - Coding is *fun*.
 
- - Examples
+ - **Examples**
 
  - Syllabus / website
  - Homework vs project
@@ -47,4 +49,29 @@ Tour of computer science (35-50)
    - see definition at MathWorld
 - "algorithmics"
 
+Administrivia
+ - syllabus
+
+
+PUNCTUATION
+ `   back-tick
+ ~   twiddle
+ !   bang
+ @   at-sign
+ #   pound, hash
+ ^   caret
+ &   ampersand, and-sign
+ *   asterisk, star
+ ( ) parentheses
+ _   underscore
+ [ ] (square) brackets
+ { } braces
+ \   backslash
+ /   slash
+ |   vertical bar, pipe
+ '   single quote
+ "   double quote
+ ;   semi-colon
+ :   colon
+ < > angle brackets
 
