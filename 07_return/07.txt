@@ -16,3 +16,4 @@ Parameters / return (1:55-2:15)
 
 Keystrokes (2:15-2:30)
  - MovingSquare stutters. How can we fix?
+ - keyPressed / **keyReleased**

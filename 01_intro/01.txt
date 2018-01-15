@@ -26,13 +26,13 @@ CS1 (6-35)
 
  - Homework is spent *coding*.
  - Coding is *fun*.
+ - Homework will take *time*.
 
  - **Examples**
 
  - Syllabus / website
  - Homework vs project
  - Piazza
- - "homework": name the owl
 
 Tour of computer science (35-50)
 
@@ -51,7 +51,10 @@ Tour of computer science (35-50)
 
 Administrivia
  - syllabus
-
+ - I expect you to *READ*.
+ - style guide ("intentional coding")
+ - What they hand in must be presentable.
+ - working with partners: be respectful and helpful
 
 PUNCTUATION
  `   back-tick

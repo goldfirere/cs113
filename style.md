@@ -24,6 +24,24 @@ While I do not expect anyone (including myself) to follow all the rules,
 [here](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html) is a *very* detailed
 guide used as an inspiration (adapted for Java) for the notes below.
 
+Intentional coding
+------------------
+
+ * Every line of code should have an effect on your program. Lines or sections
+   of code that have no effect are poor style.
+ * Once we have learned about them, use `public static final` constants to avoid
+   so-called "magic numbers" -- numerical values that must be chosen just so in
+   order for your program to work, but are impossible to understand for a reader.
+ * Do not copy-and-paste code, only to change a few details. Instead, use a method
+   or other abstraction.
+
+Scoping and encapsulation
+-------------------------
+
+ * Declare variables in the smallest scope possible. That is, prefer local variables
+   over fields.
+ * Never use `public` non-`final` fields. Use `private` fields and accessor methods.
+
 Naming Conventions
 ------------------
 
@@ -44,6 +62,7 @@ The most-readable programs are written with prudent use of whitespace
  * Use blank lines to separate major parts of a source file or method. These are like paragraph breaks in English writing.
  * After every `{`, indent by at least 2 spaces until the matching `}`.
  * Separate an operator from its operands by spaces.
+ * There should never be a need for 2 blank lines in a row or two spaces in a row.
 
 File header comments
 --------------------

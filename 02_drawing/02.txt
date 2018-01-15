@@ -4,6 +4,8 @@ II. Shapes
 III. Modifiers
 IV. Colors
 
+I struggle teaching concepts. Help me!
+
 Classes (12:55-1:10)
  - a class is some data + some operations
  - a method is an operation in a class

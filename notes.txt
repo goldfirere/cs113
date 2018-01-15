@@ -18,19 +18,53 @@ CS topics to mention:
 
 NOTES FOR SPRING 2018:
 
+- Fix primes rubric to specifically mention the factors that are printed at the
+  end. They must multiply to the original
+
+- Be more explicit about new vocabulary: "class", "method", "parameter", etc.
+
+- Mini-homeworks that are gone over (but not handed in)? I guess these are like
+  labs. But I should go over labs more.
+
+----------------------------------------------------------------
+NOTES PUT IN A PROMINENT OTHER PLACE
+
+- Re-do feedback form to be more informative. The numbers just aren't all that
+helpful. I want more text.
+
+- Include basic code-reading (short answer) questions on exams. Like: what is x after this statement? How many elements does this array hold? Etc.
+
+- Also, consider testing files and I/O on exams.
+
+- And classes.
+
+- Teach how to use, e.g., TextField in a GraphicsProgram
+
+- How can students practice design before the FP?
+
+- Lay out what a class is more clearly. Give examples. Talk more about OOD, even
+  if we don't have inheritance. Students are perhaps more capable of dealing with
+  abstraction than I think.
+
+- Introduce keyReleased in class.
+
+- Tweak Files assignment (especially around newlines). Do students have enough
+  prep for the assignment?
+
+- Tell students that I sometimes struggle to teach "concepts" instead of just
+  blasting through code. Ask for help in identifying where we need more time
+  on a concept.
+
+----------------------------------------------------------------
+DONE NOTES (SPRING 2018)
+
+- Remember to update settings file to ignore resource leaks.
+
 - Use Robin for first project, not Owl. Robin just works better and removes
   unnecessary complication.
 
 - Be much more specific about what features need to be in compound objects.
   List the methods, perhaps.
-
-- Re-do feedback form to be more informative. The numbers just aren't all that
-helpful. I want more text.
-
-- Make *requirements* in each homework assignment to clarify the process.
-  Specifically check requirements in midterm project against rubric.
-
-- Consider making the first exam online.
 
 - Don't have projects due on the second meeting time of the week. Reason: it makes
   it very awkward to have lab time devoted to the project.
@@ -42,15 +76,6 @@ helpful. I want more text.
 
 - On midterm project, remind students that shapes within compound objects should
   be near (0, 0).
-
-- Fix primes rubric to specifically mention the factors that are printed at the
-  end. They must multiply to the original
-
-- Include basic code-reading (short answer) questions on exams. Like: what is x after this statement? How many elements does this array hold? Etc.
-
-- Also, consider testing files and I/O on exams.
-
-- And classes.
 
 - Organization counts on FP (repetitve code)
 
@@ -64,53 +89,38 @@ helpful. I want more text.
 
 - Talk about homework length expectations.
 
-- What they hand in must be presentable.
-
 - All numbers in code should be reasoned about. Well, maybe not all numbers.
-
-- Dataviz: require a scale.
 
 - Grade for intentionality. That means I can take off for accidentally-correct code.
 
-- Teach how to use, e.g., TextField in a GraphicsProgram
-
-- Be more explicit about new vocabulary: "class", "method", "parameter", etc.
-
-- How can students practice design before the FP?
+- Dataviz: require a scale.
 
 - Tell students how hard the homework is. And that it gets harder.
+
+- Spread out grading percentage? There's a lot right at the end.
+
+- Talk about partnerwork expectations in class 1 or 2.
+
+
+
+-----------------------------------------------------------------
+DECIDED AGAINST
+
+- Make *requirements* in each homework assignment to clarify the process.
+  Specifically check requirements in midterm project against rubric.
+--> Students are adults. They have to read to get the requirements. I will
+    just grade more harshly.
+
+- Consider making the first exam online.
+--> Not necessary. I moved it much later, though.
 
 - Students like the creativity and open-endedness in the last two projects.
   Could I incorporate this earlier? I don't think so, not without a formal
   proposal process. Oh well -- not everything is perfect.
 
-- Spread out grading percentage? There's a lot right at the end.
-
-- Lay out what a class is more clearly. Give examples. Talk more about OOD, even
-  if we don't have inheritance. Students are perhaps more capable of dealing with
-  abstraction than I think.
-
 - More small problems (codingbat-ish) earlier.
-
-- Introduce keyReleased in class.
-
-- Talk about partnerwork expectations in class 1 or 2.
+--> But how??
 
 - Connect exams more to homework. But how? I want to test array recipes, etc., but
   most assignments won't have these.
-
-- Tweak Files assignment (especially around newlines). Do students have enough
-  prep for the assignment?
-
-- Tell students that I sometimes struggle to teach "concepts" instead of just
-  blasting through code. Ask for help in identifying where we need more time
-  on a concept.
-
-- Mini-homeworks that are gone over (but not handed in)? I guess these are like
-  labs. But I should go over labs more.
-
-----------------------------------------------------------------
-DONE NOTES (SPRING 2018)
-
-- Remember to update settings file to ignore resource leaks.
-
+--> Will acknowledge the disconnect, but I don't think this is worth fixing.
