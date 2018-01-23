@@ -143,7 +143,8 @@ a [pull request](https://github.com/goldfirere/cs113/pulls) against the `cs113` 
 Exams
 -----
 
-This course has three exams: TODO, TODO, and TODO.
+This course has three exams: March 6, April 10, and May 3. Note that the first
+exam doesn't occur until quite late in the semester.
 Exams will be open-book and
 open-note, but you will not be able to interact with a computer.
 More details will be discussed as the exams approach.
