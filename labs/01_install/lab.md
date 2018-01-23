@@ -111,8 +111,9 @@ to the `cs113` folder you unpacked from the `cs113.zip` file in step 3.
    leftmost icon in the toolbar (it's a window
    with a + in the corner). Choose to create a Java Project.
 
-8. Name the Project `Lab01 -- Hello, World!`. (The exact characters in the
-   name don't matter much.) Click the `Next >` button, *not* the `Finish` button.
+8. Name the Project `Lab01`. (The exact characters in the
+   name don't matter much, but there can't be any spaces or punctuation.)
+   Click the `Next >` button, *not* the `Finish` button.
 
 9. In the next screen that appears, click the `Libraries` tab and then the
    `Add External JARs...` button. Choose the `acm.jar` file that should be right
