@@ -21,6 +21,11 @@ typical of labs in this course. Most of the time, you'll be working with
 a partner/group to solve problems. But before we can do that fun stuff,
 we have to install the software.
 
+Note that while Eclipse does work on Linux, it does *not* work on ChromeOS.
+Chromebooks generally do not have enough computing power to be able to use
+in computer science courses. If your computer is a Chromebook, then you will
+have to use lab computers to complete the coursework.
+
 The instructions below sometimes call out special instructions for macOS and
 for Windows users. If you have neither of these (because you have Linux, or
 something even more exotic), then just do your best. I'm happy to help.
@@ -194,7 +199,7 @@ fungible than forenames!)
 
 17. Export your project:
 
-    a. Select your `Lab 01` project in Eclipse.
+    a. Select your `Lab01` project in Eclipse.
     b. Right-click and choose to `Export...`
     c. The `Export` dialog box appears. Under `General`, choose `Archive File` and
        click `Next`.
