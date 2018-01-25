@@ -1,30 +1,38 @@
 
-I. Classes
-II. Shapes
-III. Modifiers
-IV. Colors
+I. Collaboration
+II. Drawing
+III. Classes
+IV. Modifiers
+V. Colors (if time)
+
+Names (12:55-1:05)
 
 I struggle teaching concepts. Help me!
 
-Classes (12:55-1:10)
- - a class is some data + some operations
- - a method is an operation in a class
- - show the syntax
- - a method is also a sequence of *statements* (commands)
+Collaboration (1:05-1:20)
 
-Shapes (1:10-1:25)
+Drawing (1:20-1:35)
  - GLabel(String s, int x, int y)
  - GRect(int x, int y, int w, int h)
  - GOval(int x, int y, int w, int h)
  - GLine(int x1, int y1, int x2, int y2)
 
-EXERCISE NEEDED HERE
 
-Modifiers (1:55-2:05)
+Exercise: squared circle (1:35-1:50)
+
+
+Classes (1:50-2:05)
+ - a class is some data + some operations
+ - a method is an operation in a class
+ - show the syntax
+ - a method is also a sequence of *statements* (commands)
+
+
+Modifiers (2:05-2:15)
  - setFilled
  - setColor
 
-Colors (2:05-2:15)
+Colors 2:15?
  - RGB
 
 

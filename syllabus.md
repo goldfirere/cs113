@@ -35,14 +35,15 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 2 |1/25 | * Writing a Java   | * [Warmup homework]| \$examples02\$    |These describe     |
-|   |     |program             |out                 |                   |various useful Java|
-|   |     | * Drawing          |                    |                   |commands:          |
-|   |     | * Coordinates      |                    |                   |                   |
-|   |     | * Colors           |                    |                   | * [Drawing Shapes]|
+| 2 |1/25 | * Writing a Java   | * [Warmup homework]| \$examples02\$    |[Collaboration     |
+|   |     |program             |out                 |                   |scenarios]         |
+|   |     | * Drawing          |                    |                   |                   |
+|   |     | * Coordinates      |                    |                   |These describe     |
+|   |     | * Colors           |                    |                   |various useful Java|
+|   |     |                    |                    |                   |commands:          |
+|   |     |                    |                    |                   |                   |
+|   |     |                    |                    |                   | * [Drawing Shapes]|
 |   |     |                    |                    |                   | * [Accessors]     |
-|   |     |                    |                    |                   |                   |
-|   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 3 |1/30 | * Mouse interaction|                    | \$examples03\$    |[Warmup examples]  |
 |   |     | * Data fields      |                    |                   |                   |
@@ -364,3 +365,4 @@ be due two days afterwards.
 [Haskell exercises]: 21/exercises.pdf
 [Recursion exercises]: 23/Recursion.pdf
 [Review problems]: lab13/Review.pdf
+[Collaboration scenarios]: 02/CollaborationScenarios.pdf
