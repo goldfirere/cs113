@@ -13,7 +13,8 @@ title: "CS 113: Computer Science I"
 
 \$navbar\$
 
-**You can find the placement questionnaire for the Spring 2018 iteration of this course [here](placement.html).**
+**Enrollment in CS113 requires taking a [placement test](placement.html). Please fill
+this out if you are interested in enrolling.**
 
 General information
 ===================
