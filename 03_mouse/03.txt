@@ -1,37 +1,35 @@
 I. Administrivia
 II. mousePressed
-III. Fields
-IV. Life cycle of programs
+III. Variables & Fields
+IV. Modifiers & Colors
 V. Compound objects
 
-Administrivia (1:10-1:25)
+Administrivia (12:55-1:05)
  - names
  - Piazza
  - survey
  - groups
+ - lots of people tried coding but "failed"
 
-mousePressed (1:25-1:35)
+mousePressed (1:05-1:20)
  - Rectangles
  - import java.awt.event.*;
  - e.getX(), e.getY()
  - mousePressed vs mouseMoved
 
-Fields (1:35-1:45)
+Fields (1:20-1:35)
  - class-scoped stored information
  - <type> <name>
  - MovingRectangle
 
-ICE: Centered circle (1:45-2:05)
+Modifiers & Colors (1:35-1:50)
+ - setFilled
+ - setVisible
+ - Color
 
-Life cycle of programs (2:05-2:15)
- - run()
- - methods
- - commands
- - event model
- - "applet"
- - extending GraphicsProgram
+ICE: Centered circle (1:35-1:50)
 
-Compound objects (2:15-2:30)
+Compound objects (1:50-2:15)
  - Robin
  - constructor vs method
  - **abstraction**

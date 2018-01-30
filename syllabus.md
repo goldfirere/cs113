@@ -26,7 +26,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L1 |     | * Installing       |                    |                   |[Lab01]            |
+|L1 |     | * Installing       |                    |                   |[Lab 1]            |
 |   |     |Eclipse             |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -50,7 +50,7 @@ represents my aims.
 |   |     | * Types            |                    |                   |                   |
 |   |     | * Custom classes   |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L2 |     | * Interactive      |                    |                   |                   |
+|L2 |     | * Interactive      |                    |                   | [Lab 2]           |
 |   |     |programming         |                    |                   |                   |
 |   |     | * Classes          |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -323,7 +323,7 @@ be due two days afterwards.
 
 [Sign up on Piazza]: https://piazza.com/brynmawr/spring2018/cs113
 [this survey]: https://goo.gl/forms/Ct69SNCnXQCV6GtB2
-[Lab01]: lab01/lab.html
+[Lab 1]: lab01/lab.html
 [Warmup homework]: hw01/Warmup.pdf
 [Drawing Shapes]: 02/Shapes.pdf
 [Accessors]: 02/Accessors.pdf
@@ -332,7 +332,7 @@ be due two days afterwards.
 [Methods exercise]: 04/method.html
 [Cat.java]: lab02/Cat.java
 [Robot.java]: lab02/Robot.java
-[Lab02]: lab02/lab02.pdf
+[Lab 2]: lab02/Lab2.pdf
 [Owl project]: hw02/Owl.pdf
 [Owl demo]: hw02/Owl.jar
 [Lab03]: lab03/lab03.pdf
