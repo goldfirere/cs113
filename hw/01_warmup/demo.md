@@ -5,7 +5,7 @@ title: CS 113 Warmup Homework Demo
 <div id="header">
 
 | **CS 113 Warmup Homework Demo**
-| Fall 2017
+| Spring 2018
 
 </div>
 
