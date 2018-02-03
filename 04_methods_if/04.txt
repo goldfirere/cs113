@@ -3,18 +3,21 @@ II. if
 III. Methods
 IV. Style
 
-Warmup homework? (1:10-1:20)
+Warmup homework? (12:55-1:05)
+ - demos!
 
-if (1:20-1:35)
+if (1:05-1:20)
  - syntax & semantics
  - TwoColors
  - Intersections
-    --> mouseMoved!
  - &&, ||, and !
 
-ICE: Black Hole (1:35-1:55)
+ICE: Black Hole (1:20-1:40)
 
-methods (1:55-2:10)
+methods (1:40-1:55)
  - ShowP / Pinocchirobin
 
-ICE2: Growing arrow (2:10-2:30)
+ICE2: Growing arrow (1:55-2:10)
+ - download MovingGrowingArrow.java
+
+Style (2:10-2:15)
