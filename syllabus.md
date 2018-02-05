@@ -68,9 +68,9 @@ represents my aims.
 +---+-----+--------------------+--------------------+-------------------+-------------------+
 | 5 |2/6  | * Boolean values   | * [Warmup homework]|                   |                   |
 |   |     | * Animation        |due                 |                   |                   |
-|   |     | * Parameters       | * Robin project out|                   |                   |
-|   |     |                    | * Robin demo       |                   |                   |
-|   |     |                    |                    |                   |                   |
+|   |     | * Parameters       | * [Robin project]  |                   |                   |
+|   |     |                    |out                 |                   |                   |
+|   |     |                    | * [Robin demo]     |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -90,10 +90,10 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 7 |2/13 | * Return values    | * Robin project due|                   |                   |
-|   |     | * Handling         | * Midterm project  |                   |                   |
-|   |     |keystrokes          |out                 |                   |                   |
-|   |     |                    |                    |                   |                   |
+| 7 |2/13 | * Return values    | * [Robin project]  |                   |                   |
+|   |     | * Handling         |due                 |                   |                   |
+|   |     |keystrokes          | * Midterm project  |                   |                   |
+|   |     |                    |out                 |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
@@ -333,8 +333,8 @@ be due two days afterwards.
 [Cat.java]: lab02/Cat.java
 [Robot.java]: lab02/Robot.java
 [Lab 2]: lab02/Lab2.pdf
-[Owl project]: hw02/Owl.pdf
-[Owl demo]: hw02/Owl.jar
+[Robin project]: hw02/Robin.pdf
+[Robin demo]: hw02/robin.jar
 [Lab03]: lab03/lab03.pdf
 [Midterm project]: hw03/midterm.html
 [Tracing paper exercises]: 07/tp.pdf

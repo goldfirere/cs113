@@ -1,19 +1,17 @@
 
-I. Questions?
-II. Common coding problems
-III. Types
-IV. Timers
-V. Owl Project
+I. Timers
+II. Types
+III. Robin Project
 
-Questions? (1:10-1:20)
+Questions? (12:55-1:05)
 
-Common coding problems (1:20-1:30)
-  NullPointerException
-  running a program that's broken
-  warnings
-  "variables"
+Timers (1:05-1:20)
+ - MovingRight
+ - Clock
 
-Types (1:30-1:55)
+ICE: Dropping ball (1:20-1:45)
+
+Types (1:45-2:10)
  - reminder what a type is
  - int
  - ClickCounter
@@ -21,12 +19,5 @@ Types (1:30-1:55)
  - boolean
  - LightSwitch
 
-Timers (1:55-2:05)
- - MovingRight
- - Clock
+Robin (2:10-2:15)
 
-Owl (2:05-2:15)
-
-Flight to Colorado (leave at 2:15!)
-
-ICE: Dropping ball
