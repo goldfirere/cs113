@@ -66,7 +66,7 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 5 |2/6  | * Boolean values   | * [Warmup homework]|                   |                   |
+| 5 |2/6  | * Boolean values   | * [Warmup homework]| \$examples05\$    |                   |
 |   |     | * Animation        |due                 |                   |                   |
 |   |     | * Parameters       | * [Robin project]  |                   |                   |
 |   |     |                    |out                 |                   |                   |
@@ -78,15 +78,15 @@ represents my aims.
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-|L3 |     | * Animations       |                    |                   |                   |
-|   |     | * Methods          |                    |                   |                   |
+|L3 |     | * Methods          |                    | * [Robot.java]    | [Lab 3]           |
+|   |     |                    |                    | * [Cat.java]      |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
-| 6 |2/8  | * Local coordinates|                    |                   |                   |
-|   |     | * Pseudorandom     |                    |                   |                   |
-|   |     |number generation   |                    |                   |                   |
+| 6 |2/8  | * Parameters       |                    |                   |                   |
+|   |     | * Gravity          |                    |                   |                   |
+|   |     | * Random numbers   |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 |   |     |                    |                    |                   |                   |
 +---+-----+--------------------+--------------------+-------------------+-------------------+
@@ -330,12 +330,12 @@ be due two days afterwards.
 [Warmup examples]: hw01/demo.html
 [`if` exercise]: 04/exercise.html
 [Methods exercise]: 04/method.html
-[Cat.java]: lab02/Cat.java
-[Robot.java]: lab02/Robot.java
+[Cat.java]: lab03/Cat.java
+[Robot.java]: lab03/Robot.java
 [Lab 2]: lab02/Lab2.pdf
 [Robin project]: hw02/Robin.pdf
 [Robin demo]: hw02/robin.jar
-[Lab03]: lab03/lab03.pdf
+[Lab 3]: lab03/Lab3.pdf
 [Midterm project]: hw03/midterm.html
 [Tracing paper exercises]: 07/tp.pdf
 [Practice Exam 1]: 08/Review1.pdf

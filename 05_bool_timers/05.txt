@@ -1,11 +1,13 @@
 
-I. Timers
-II. Types
-III. Robin Project
+I. Methods
+II. Timers
+III. Types
+IV. Robin Project
 
-Questions? (12:55-1:05)
+methods (12:55-1:10)
+ - ShowP / Pinocchirobin
 
-Timers (1:05-1:20)
+Timers (1:10-1:20)
  - MovingRight
  - Clock
 
