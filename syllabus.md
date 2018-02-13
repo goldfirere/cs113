@@ -90,9 +90,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-| 7 |2/13 | * Return values    | * [Robin project]  |                    |                   |
+| 7 |2/13 | * Return values    | * [Robin project]  |\$examples07\$      |                   |
 |   |     | * Handling         |due                 |                    |                   |
-|   |     |keystrokes          | * Midterm project  |                    |                   |
+|   |     |keystrokes          | * [Midterm project]|                    |                   |
 |   |     |                    |out                 |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -122,7 +122,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|11 |2/27 | * `ArrayList`s     | * Midterm project  |                    |                   |
+|11 |2/27 | * `ArrayList`s     | * [Midterm project]|                    |                   |
 |   |     |                    |due                 |                    |                   |
 |   |     |                    | * Loops homework   |                    |                   |
 |   |     |                    |out                 |                    |                   |

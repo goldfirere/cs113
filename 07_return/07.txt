@@ -1,19 +1,17 @@
-I. Questions?
-II. Midterm Project
-III. Tracing Paper
-IV. Parameters / return
-V. Keystrokes
+I. Midterm Project
+II. Parameters / return
+III. Keystrokes
 
-Questions? (1:10-1:20)
+Questions? (12:55-1:00)
 
-Midterm project (1:20-1:35)
+Midterm project (1:00-1:10)
 
-Tracing paper (1:35-1:55)
-
-Parameters / return (1:55-2:15)
+Parameters / return (1:10-1:25)
  SlingshotApp / Slingshot
  More syntax/semantics
 
-Keystrokes (2:15-2:30)
+???
+
+Keystrokes (2:00-2:15)
  - MovingSquare stutters. How can we fix?
  - keyPressed / **keyReleased**

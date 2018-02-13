@@ -5,7 +5,7 @@ title: CS 113 Midterm Project
 <div id="header">
 
 | **CS 113 Warmup Homework Demo**
-| Fall 2017
+| Spring 2018
 
 </div>
 
@@ -15,7 +15,7 @@ title: CS 113 Midterm Project
 
 </div>
 
-You must choose **one** of the following two projects, to be completed by **Wednesday, October 11, 2017**.
+You must choose **one** of the following two projects, to be completed by **Tuesday, February 27, 2018**.
 There is **no** extra credit for doing both, but each project has some "extra challenge" features listed.
 There is no credit for doing these extra challenges, but they're designed to be fun!
 

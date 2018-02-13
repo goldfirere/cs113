@@ -1,4 +1,4 @@
-/* Name: eisenbergr
+/* Name: Richard Eisenberg
  * File: NumberControl.java
  * Desc: simple number control made up of GLabels
  */
