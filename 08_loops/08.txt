@@ -1,0 +1,19 @@
+I. Midterm project questions?
+II. Console programming
+III. while
+
+Midterm project (12:55-1:00)
+
+Console programming (1:00-1:20)
+ - psvm(S[]a)
+ - Hello, world!
+ - UserInput
+ - SayMyName
+
+Greater (1:20-1:35)
+
+while (1:35-1:50)
+ - FiveStar
+
+NStar (1:50-2:05)
+ - NStar
