@@ -106,11 +106,11 @@ represents my aims.
 |   |     | * User input       |                    |                    |                   |
 |   |     | * Loops            |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-| 9 |2/20 | * More loops       |                    |                    |                   |
+| 9 |2/20 | * More loops       |                    |\$examples09\$      |[while Exercises]  |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L5 |     | * Loops            |                    |                    |                   |
+|L5 |     | * Loops            |                    |                    |[Lab 5]            |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -339,8 +339,8 @@ be due two days afterwards.
 [Midterm project]: hw03/midterm.html
 [Tracing paper exercises]: 07/tp.pdf
 [Practice Exam 1]: 08/Review1.pdf
-[Lab05]: lab05/lab5.pdf
-[while Exercises]: 11/while-exercises.pdf
+[Lab 5]: lab05/lab5.pdf
+[while Exercises]: 09/while-exercises.pdf
 [alc]: 12/arraylists.pdf
 [summer]: 12/summer.pdf
 [Lab 6]: lab06/lab06.pdf

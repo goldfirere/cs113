@@ -1,4 +1,10 @@
+/* Name: Richard Eisenberg
+ * File: Arithmetic.java
+ * Desc: Demonstration of how Java does arithmetic
+ */
 
+// This file makes the most sense viewing the code while comparing
+// it to the output.
 public class Arithmetic
 {
 	public static void main(String[] args)
