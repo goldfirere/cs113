@@ -122,9 +122,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|11 |2/27 | * `ArrayList`s     | * [Midterm project]|                    |                   |
+|11 |2/27 | * `ArrayList`s     | * [Midterm project]|\$examples11\$      |[Summer exercise]  |
 |   |     |                    |due                 |                    |                   |
-|   |     |                    | * Loops homework   |                    |                   |
+|   |     |                    | * [Loops homework] |                    |                   |
 |   |     |                    |out                 |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -133,7 +133,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L6 |     | * `ArrayList`      |                    |                    |                   |
+|L6 |     | * `ArrayList`      |                    |[Imperfect.java]    |[Lab 6]            |
 |   |     |exercises           |                    |                    |                   |
 |   |     | * The Eclipse      |                    |                    |                   |
 |   |     |Debugger            |                    |                    |                   |
@@ -158,7 +158,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|14 |3/8  | * Data             | * Loops homework   |                    |                   |
+|14 |3/8  | * Data             | * [Loops homework] |                    |                   |
 |   |     |visualization       |due                 |                    |                   |
 |   |     |                    | * Files homework   |                    |                   |
 |   |     |                    |out                 |                    |                   |
@@ -342,10 +342,10 @@ be due two days afterwards.
 [Lab 5]: lab05/lab5.pdf
 [while Exercises]: 09/while-exercises.pdf
 [alc]: 12/arraylists.pdf
-[summer]: 12/summer.pdf
+[Summer exercise]: 11/summer.pdf
 [Lab 6]: lab06/lab06.pdf
 [Imperfect.java]: lab06/Imperfect.java
-[Primes homework]: hw04/Primes.pdf
+[Loops homework]: hw04/Loops.pdf
 [CodingBat]: http://codingbat.com/
 [alice.txt]: hw05/alice.txt
 [Files homework]: hw05/Files.pdf

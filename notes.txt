@@ -20,6 +20,10 @@ NOTES AFTER SPRING 2018:
 
 Change Robin assignment to explicitly allow students to make whatever face (and skintone) they want.
 
+Teach GCompound, but only basic stuff, like through Pinocchirobin. No more than that. **NO** requirement
+for compound objects on Robin or Midterm projects. Students end up drowning in coordinates, and for what
+reason? Instead, perhaps put more weight on classes around the data visualization.
+
 
 -----------------------------------------
 

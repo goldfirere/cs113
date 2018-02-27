@@ -54,7 +54,7 @@ public class Arithmetic
 		d = 1.0 * (19 / 4);
 		System.out.println(d);
 		
-		x = 2000000000;
+		x = 2000000000; // 2 billion, 2 * 10^9, 9 zeroes
 		System.out.println(x);
 		
 		x = x + x;
