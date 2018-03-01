@@ -19,7 +19,7 @@ public class Min
 		int num = in.nextInt();
 		
 		// use a loop to ask the user for the numbers
-		ArrayList<Integer> values = new ArrayList<Integer>();
+		ArrayList<Integer> values = new ArrayList<>();
 		
 		// loop to ask for nums
 		int i = 0;

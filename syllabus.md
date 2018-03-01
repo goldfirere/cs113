@@ -138,9 +138,9 @@ represents my aims.
 |   |     | * The Eclipse      |                    |                    |                   |
 |   |     |Debugger            |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|12 |3/1  | * Strings          |                    |                    |                   |
-|   |     | * Files            |                    |                    |                   |
-|   |     | * Exam review      |                    |                    |                   |
+|12 |3/1  | * Strings          |                    |                    |* [Review problems]|
+|   |     | * Exam review      |                    |                    |* [String          |
+|   |     |                    |                    |                    |reference]         |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |13 |3/6  | **EXAM 1**         |                    |                    |                   |
@@ -148,9 +148,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L7 |     | * Working with     |                    |                    |                   |
+|L7 |     | * Files            |                    |                    |                   |
+|   |     | * Working with     |                    |                    |                   |
 |   |     |files               |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -338,7 +338,7 @@ be due two days afterwards.
 [Lab 3]: lab03/Lab3.pdf
 [Midterm project]: hw03/midterm.html
 [Tracing paper exercises]: 07/tp.pdf
-[Practice Exam 1]: 08/Review1.pdf
+[Review problems]: 12/Review1.pdf
 [Lab 5]: lab05/lab5.pdf
 [while Exercises]: 09/while-exercises.pdf
 [alc]: 12/arraylists.pdf
@@ -364,5 +364,5 @@ be due two days afterwards.
 [Exam 2 reference]: 20/Reference.pdf
 [Haskell exercises]: 21/exercises.pdf
 [Recursion exercises]: 23/Recursion.pdf
-[Review problems]: lab13/Review.pdf
 [Collaboration scenarios]: 02/CollaborationScenarios.pdf
+[String reference]: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html

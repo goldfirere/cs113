@@ -16,7 +16,7 @@ public class List
 		
 		// We are about to collect the numbers. But we need a place to
 		// put them. A good place to store them is in an ArrayList.
-		ArrayList<Integer> list = new ArrayList<Integer>();
+		ArrayList<Integer> list = new ArrayList<>();
 	  // The line above creates an ArrayList capable of storing Integers.
 		// For our purposes now, an Integer is the same as an int. But we
 		// have to use Integer when making an ArrayList.
