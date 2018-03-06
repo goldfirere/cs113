@@ -47,7 +47,7 @@ main = hakyll $ do
     route   $ dropLabNameRoute `composeRoutes` setHtmlExtension
     compile $ mdCompiler
 
-  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.(zip|java|pdf)") $ do
+  piimatch (fromRegex "^labs/[0-9][0-9]_[^/]+/[^/]*\\.(zip|java|pdf|txt)") $ do
     route   $ dropLabNameRoute
     compile $ copyFileCompiler
 

@@ -148,9 +148,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L7 |     | * Files            |                    |                    |                   |
-|   |     | * Working with     |                    |                    |                   |
-|   |     |files               |                    |                    |                   |
+|L7 |     | * Files            |                    | * [ReadFile.java]  |[Lab 7]            |
+|   |     | * Working with     |                    | * [Multiplier.java]|                   |
+|   |     |files               |                    | * [numbers.txt]    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -366,3 +366,6 @@ be due two days afterwards.
 [Recursion exercises]: 23/Recursion.pdf
 [Collaboration scenarios]: 02/CollaborationScenarios.pdf
 [String reference]: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+[ReadFile.java]: lab07/ReadFile.java
+[Multiplier.java]: lab07/Multiplier.java
+[numbers.txt]: lab07/numbers.txt
