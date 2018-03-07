@@ -1,3 +1,37 @@
+I. Files
+II. Arrays
+III. Files as data
+
+Files (12:55-1:25)
+ - basic idea
+ - ReadFile
+ - Multiplier
+
+ - Solution to labs
+
+Arrays (1:25-1:40)
+ - creation
+ - read
+ - write
+ - Convert a lab solution to use arrays (Number3.java)
+
+Files as Data (1:40-2:15)
+ - xls files
+ - csv files
+ - conversions
+ - commas
+ - split
+
+VALIDATOR
+
+ - Conversions (google them!)
+    - "" + 
+    - Integer.parseInt
+    - Double.parseDouble
+
+ - validate
+
+
 THINGS WE NEED TO DO SOMETIME:
 
 - CSV format (II)
@@ -17,31 +51,3 @@ THINGS WE NEED TO DO SOMETIME:
 - visualization (bar chart vs line chart vs pie chart)
 - datavis project
 
-I. Arrays
-
-I. Files as Data
-
-
-Arrays (1:10-1:30)
- - creation
- - read
- - write
- - Convert a lab solution to use arrays (Number3.java)
-
-Files as Data (1:30-1:55)
- - xls files
- - csv files
- - conversions
- - commas
- - split
-
-TASK: Write a program that figures out how many lines of data are valid in the file
-
-VALIDATE (2:15-2:30)
- - Conversions (google them!)
-    - "" + 
-    - Integer.parseInt
-    - Double.parseDouble
-    - new ArrayList<>(Arrays.asList(array))
-
- - validate

@@ -41,20 +41,19 @@ public class Validate
 	// Validates a line of data by checking balance vs (export - import)
 	public static void validate(String data)
 	{
-		ArrayList<String> parts =
-				new ArrayList<>(Arrays.asList(data.split(",")));
+		String[] parts = data.split(",");
 		
-		int totalBalance = Integer.parseInt(parts.get(1));
-		int totalExport = Integer.parseInt(parts.get(4));
-		int totalImport = Integer.parseInt(parts.get(7));
+		int totalBalance = Integer.parseInt(parts[1]);
+		int totalExport = Integer.parseInt(parts[4]);
+		int totalImport = Integer.parseInt(parts[7]);
 		
 		if(totalExport - totalImport == totalBalance)
 		{
-			System.out.println(parts.get(0) + " validated");
+			System.out.println(parts[0] + " validated");
 		}
 		else
 		{
-			System.out.println("Error in " + parts.get(0));
+			System.out.println("Error in " + parts[0]);
 			System.out.println("Exports: " + totalExport);
 			System.out.println("Imports: " + totalImport);
 			System.out.println("Calculated balance: " +

@@ -133,7 +133,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L6 |     | * `ArrayList`      |                    |[Imperfect.java]    |[Lab 6]            |
+|L6 |     | * `ArrayList`      |                    |\$lab_examples06\$  |[Lab 6]            |
 |   |     |exercises           |                    |                    |                   |
 |   |     | * The Eclipse      |                    |                    |                   |
 |   |     |Debugger            |                    |                    |                   |
@@ -158,14 +158,15 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|14 |3/8  | * Data             | * [Loops homework] |                    |                   |
-|   |     |visualization       |due                 |                    |                   |
-|   |     |                    | * Files homework   |                    |                   |
-|   |     |                    |out                 |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
+|14 |3/8  | * Data             | * [Loops homework] |                    | * [gands.xls] --  |
+|   |     |visualization       |due                 |                    |data we will be    |
+|   |     |                    | * [Files homework] |                    |analyzing          |
+|   |     |                    |out                 |                    | * [gands.csv] --  |
+|   |     |                    |                    |                    |reformatted data   |
+|   |     |                    |                    |                    | * [alice.txt] --  |
+|   |     |                    |                    |                    |Text of *Alice's   |
+|   |     |                    |                    |                    |Adventures in      |
+|   |     |                    |                    |                    |Wonderland*        |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |   |3/13 | **SPRING BREAK**   |                    |                    |                   |
@@ -196,15 +197,15 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|15 |3/22 | * Data classes     | * Files homework   |                    | * [gands.xls] --  |
-|   |     | * Data             |due                 |                    |data we will be    |
-|   |     |visualization demo  | * Data             |                    |analyzing          |
-|   |     |                    |visualization out   |                    | * [gands.csv] --  |
-|   |     |                    |                    |                    |reformatted data   |
-|   |     |                    |                    |                    | * [alice.txt] --  |
-|   |     |                    |                    |                    |Text of *Alice's   |
-|   |     |                    |                    |                    |Adventures in      |
-|   |     |                    |                    |                    |Wonderland*        |
+|15 |3/22 | * Data classes     | * [Files homework] |                    |                   |
+|   |     | * Data             |due                 |                    |                   |
+|   |     |visualization demo  | * Data             |                    |                   |
+|   |     |                    |visualization out   |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |16 |3/27 | * `ArrayList`s in  |                    |                    |                   |
 |   |     |`GraphicsProgram`s  |                    |                    |                   |
