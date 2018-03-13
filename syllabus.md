@@ -148,9 +148,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L7 |     | * Files            |                    | * [ReadFile.java]  |[Lab 7]            |
-|   |     | * Working with     |                    | * [Multiplier.java]|                   |
-|   |     |files               |                    | * [numbers.txt]    |                   |
+|L7 |     | * Files            |                    |\$lab_examples07\$  | * [Lab 7]         |
+|   |     | * Working with     |                    |                    | * [numbers.txt]   |
+|   |     |files               |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -158,7 +158,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|14 |3/8  | * Data             | * [Loops homework] |                    | * [gands.xls] --  |
+|14 |3/8  | * Data             | * [Loops homework] |\$examples14\$      | * [gands.xls] --  |
 |   |     |visualization       |due                 |                    |data we will be    |
 |   |     |                    | * [Files homework] |                    |analyzing          |
 |   |     |                    |out                 |                    | * [gands.csv] --  |
