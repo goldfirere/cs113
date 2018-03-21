@@ -1,15 +1,3 @@
-I. Classes
-II. Data viz project
-III. Data viz demo
+I. Data viz project
+II. Data viz demo
 
-Comments on midterm:
- - coordinates
- - boolean for smooth movement
-
-Comments on files homework:
- - use an array
- - newlines
-
-Also: remind about pernicious semicolons
-
-https://catalog.data.gov/dataset/u-s-hourly-precipitation-data

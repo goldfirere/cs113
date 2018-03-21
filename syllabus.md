@@ -199,8 +199,8 @@ represents my aims.
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |15 |3/22 | * Data classes     | * [Files homework] |                    |                   |
 |   |     | * Data             |due                 |                    |                   |
-|   |     |visualization demo  | * Data             |                    |                   |
-|   |     |                    |visualization out   |                    |                   |
+|   |     |visualization demo  | * [Data            |                    |                   |
+|   |     |                    |visualization] out  |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -214,10 +214,10 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L9 |     | * Time for data    | * Data             |                    |                   |
-|   |     |visualization       |visualization sketch|                    |                   |
-|   |     |project             |checked in lab      |                    |                   |
-|   |     |                    |                    |                    |                   |
+|L9 |     | * Time for data    | * [Data            |                    |                   |
+|   |     |visualization       |visualization]      |                    |                   |
+|   |     |project             |sketch checked in   |                    |                   |
+|   |     |                    |lab                 |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |17 |3/29 | * Two-dimensional  |                    |                    |                   |
 |   |     |arrays              |                    |                    |                   |
@@ -226,8 +226,8 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|18 |4/3  | * State machines   | * Data             |                    |                   |
-|   |     |                    |visualization       |                    |                   |
+|18 |4/3  | * State machines   | * [Data            |                    |                   |
+|   |     |                    |visualization]      |                    |                   |
 |   |     |                    |project due         |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
