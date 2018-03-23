@@ -197,7 +197,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|15 |3/22 | * Data classes     | * [Files homework] |                    |                   |
+|15 |3/22 | * Data classes     | * [Files homework] | \$examples15\$     |                   |
 |   |     | * Data             |due                 |                    |                   |
 |   |     |visualization demo  | * [Data            |                    |                   |
 |   |     |                    |visualization] out  |                    |                   |
@@ -318,9 +318,8 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 
-[Final project] presentations will happen at a time to be scheduled during the normal
-exam period. Projects will be due on the date of the presentation, and papers will
-be due two days afterwards.
+[Final project] presentations will happen on **Wednesday, May 9, 9:30am-12:30pm** in Park 229.
+Projects will be due at that time. Papers will be due **Friday, May 11, at noon**.
 
 [Sign up on Piazza]: https://piazza.com/brynmawr/spring2018/cs113
 [this survey]: https://goo.gl/forms/Ct69SNCnXQCV6GtB2
