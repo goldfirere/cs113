@@ -38,11 +38,15 @@ public class BlackHoles extends GraphicsProgram
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
-		// make every hole grow using a loop		
-		for(GOval oneHole : holes)
+		// make every hole grow using a loop
+		int i = 0;
+		while(i < holes.size())
 		{
+			GOval oneHole = holes.get(i);
 			oneHole.setSize(oneHole.getWidth() + 2, oneHole.getHeight() + 2);
 			oneHole.move(-1, -1);
+			
+			i = i + 1;
 		}
 	}
 }

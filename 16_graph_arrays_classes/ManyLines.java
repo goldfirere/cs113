@@ -34,9 +34,13 @@ public class ManyLines extends GraphicsProgram
 	@Override
 	public void mouseMoved(MouseEvent e)
 	{
-		for(GLine line : lines)
+		int i = 0;
+		while(i < lines.size())
 		{
+			GLine line = lines.get(i);
 			line.setEndPoint(e.getX(), e.getY());
+			
+			i = i + 1;
 		}
 	}
 }

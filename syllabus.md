@@ -207,9 +207,9 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|16 |3/27 | * `ArrayList`s in  |                    |                    |                   |
-|   |     |`GraphicsProgram`s  |                    |                    |                   |
-|   |     | * Java Object Model|                    |                    |                   |
+|16 |3/27 | * `ArrayList`s in  |                    |\$examples16\$      | [`ArrayLists` in  |
+|   |     |`GraphicsProgram`s  |                    |                    |`GraphicsProgram`s |
+|   |     |                    |                    |                    |exercise][algp]    |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |

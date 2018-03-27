@@ -43,19 +43,28 @@ public class LeftRightSquares extends GraphicsProgram
 		 */
 		if(e.getKeyCode() == KeyEvent.VK_LEFT)
 		{
-			for(GRect rect : theRects)
+			int i = 0;
+			while(i < theRects.size())
 			{
+				GRect rect = theRects.get(i);
+
 				// the action this loop takes is to move a rect left
 			  rect.move(-3, 0);
+			  
+			  i = i + 1;
 			}
 		}
 		
 		if(e.getKeyCode() == KeyEvent.VK_RIGHT)
 		{
 			// use another loop
-			for(GRect rect : theRects)
+			int i = 0;
+			while(i < theRects.size())
 			{
+				GRect rect = theRects.get(i);
 				rect.move(3, 0);
+				
+				i = i + 1;
 			}
 		}
 	}
