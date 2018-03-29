@@ -219,7 +219,7 @@ represents my aims.
 |   |     |project             |sketch checked in   |                    |                   |
 |   |     |                    |lab                 |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|17 |3/29 | * Two-dimensional  |                    |                    |                   |
+|17 |3/29 | * Two-dimensional  |                    |\$examples17\$      | [Array exercises] |
 |   |     |arrays              |                    |                    |                   |
 |   |     | * Array exercises  |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -355,7 +355,7 @@ Projects will be due at that time. Papers will be due **Friday, May 11, at noon*
 [Data visualization]: hw06/Data.pdf
 [algp]: 16/exercise.pdf
 [Final project]: hw07/Final.pdf
-[Array exercises]: 18/Arrays.pdf
+[Array exercises]: 17/Arrays.pdf
 [Lab 9]: lab09/Lab9.pdf
 [Exam 2 review]: 19/Review.pdf
 [music.mp3]: 20/music.mp3
