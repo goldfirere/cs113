@@ -233,7 +233,7 @@ represents my aims.
 |   |     |                    |out                 |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|L10|     | * Array and string |                    |                    |                   |
+|L10|     | * Array and string |                    |                    | [Lab 10]          |
 |   |     |exercises           |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -356,7 +356,7 @@ Projects will be due at that time. Papers will be due **Friday, May 11, at noon*
 [algp]: 16/exercise.pdf
 [Final project]: hw07/Final.pdf
 [Array exercises]: 17/Arrays.pdf
-[Lab 9]: lab09/Lab9.pdf
+[Lab 10]: lab10/Lab10.pdf
 [Exam 2 review]: 19/Review.pdf
 [music.mp3]: 20/music.mp3
 [hitchhiker.jpg]: 20/hitchhiker.jpg
