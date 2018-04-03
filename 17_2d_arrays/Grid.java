@@ -32,8 +32,8 @@ public class Grid extends GraphicsProgram
 		{
 			for(int y = 0; y < GRID_SIZE; y++)
 			{
-				int xCoord = x * getWidth() / GRID_SIZE;
-				int yCoord = y * getHeight() / GRID_SIZE;
+				int xCoord = x * width;
+				int yCoord = y * height;
 				grid[x][y] = new GRect(xCoord, yCoord, width, height);
 				grid[x][y].setFilled(true);
 				grid[x][y].setFillColor(Color.WHITE);
@@ -48,8 +48,8 @@ public class Grid extends GraphicsProgram
 	public void mousePressed(MouseEvent e)
 	{
 		// figure out which square we've clicked in:
-		int x = e.getX() * GRID_SIZE / getWidth();
-		int y = e.getY() * GRID_SIZE / getHeight();
+		int x = e.getX() / (getWidth() / GRID_SIZE);
+		int y = e.getY() / (getHeight() / GRID_SIZE);
 		
 		// toggle the color of that square
 		if(grid[x][y].getFillColor().equals(Color.WHITE))

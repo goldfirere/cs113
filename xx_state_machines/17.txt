@@ -1,5 +1,0 @@
-I. Final Project
-II. State Machines
-III. Java Object Model
-
-incl. null and static
