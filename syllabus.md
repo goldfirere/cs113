@@ -228,7 +228,7 @@ represents my aims.
 +---+-----+--------------------+--------------------+--------------------+-------------------+
 |18 |4/3  |  * Final project   | * [Data            |\$examples18\$      |                   |
 |   |     |discussion          |visualization]      |                    |                   |
-|   |     | * State machines   |project due         |                    |                   |
+|   |     |                    |project due         |                    |                   |
 |   |     |                    | * [Final project]  |                    |                   |
 |   |     |                    |out                 |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -241,11 +241,11 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|19 |4/5  |  * Review          |                    |                    |                   |
-|   |     |  * Images and      |                    |                    |                   |
-|   |     |sounds              |                    |                    |                   |
-|   |     |  * Text fields and |                    |                    |                   |
-|   |     |graphical elements  |                    |                    |                   |
+|19 |4/5  | * State machines   |                    |                    | [Review questions]|
+|   |     | * Review           |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
@@ -262,28 +262,30 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|21 |4/12 |  * Object-oriented | * [Final project]  |                    |                   |
-|   |     |design              |proposals due       |                    |                   |
+|21 |4/12 |  * Images and      | * [Final project]  |\$examples21\$      | * [moo.wav]       |
+|   |     |sounds              |proposals due       |                    | * [hitchhiker.jpg]|
+|   |     |  * Text fields and |                    |                    | * [music.mp3]     |
+|   |     |graphical elements  |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|22 |4/17 | * Inheritance      |                    |                    |                   |
-|   |     | * Interfaces       |                    |                    |                   |
-|   |     | * Polymorphism     |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-+---+-----+--------------------+--------------------+--------------------+-------------------+
-|L12|     | * Object           |                    |                    |                   |
-|   |     |orientation         |                    |                    |                   |
+|22 |4/17 | * Recursion        |                    |\$examples22\$      | * [Recursion      |
+|   |     | * Deployment       |                    |                    |exercises]         |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|23 |4/19 | * Sub-typing       |                    |                    |                   |
+|L12|     | * Recursion        |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
+|   |     |**NO LAB THURSDAY** |                    |                    |                   |
+|   |     |                    |                    |                    |                   |
++---+-----+--------------------+--------------------+--------------------+-------------------+
+|23 |4/19 | * More recursion   |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|24 |4/24 | * Recursion        |                    |                    |                   |
+|24 |4/24 |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -295,7 +297,7 @@ represents my aims.
 |   |     |                    |lab                 |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|25 |4/26 | * More recursion   |                    |                    |                   |
+|25 |4/26 |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -357,13 +359,13 @@ Projects will be due at that time. Papers will be due **Friday, May 11, at noon*
 [Final project]: hw07/Final.pdf
 [Array exercises]: 17/Arrays.pdf
 [Lab 10]: lab10/Lab10.pdf
-[Exam 2 review]: 19/Review.pdf
-[music.mp3]: 20/music.mp3
-[hitchhiker.jpg]: 20/hitchhiker.jpg
-[moo.wav]: 20/moo.wav
+[Review questions]: 19/Review.pdf
+[music.mp3]: 21/music.mp3
+[hitchhiker.jpg]: 21/hitchhiker.jpg
+[moo.wav]: 21/moo.wav
 [Exam 2 reference]: 20/Reference.pdf
 [Haskell exercises]: 21/exercises.pdf
-[Recursion exercises]: 23/Recursion.pdf
+[Recursion exercises]: 22/Recursion.pdf
 [Collaboration scenarios]: 02/CollaborationScenarios.pdf
 [String reference]: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 [ReadFile.java]: lab07/ReadFile.java

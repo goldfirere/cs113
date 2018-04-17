@@ -15,6 +15,7 @@ public class BackgroundMusic extends GraphicsProgram
 	{
 		background = new MP3("music.mp3"); // load from file music.mp3
 		background.loop(); // loop the song
+		// You can also say background.play(); to play it once
 
 		addMouseListeners(); // turn on the mouse
 	}
