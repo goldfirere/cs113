@@ -280,14 +280,14 @@ represents my aims.
 |   |     |**NO LAB THURSDAY** |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|23 |4/19 | * More recursion   |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
+|23 |4/19 | * Web design       |                    |                    | * [w3schools]     |
+|   |     | * HTML             |                    |                    |                   |
+|   |     | * CSS              |                    |                    |                   |
+|   |     | * JavaScript       |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|24 |4/24 |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
+|24 |4/24 | * Blockchain       | Read about [Tor]   |                    | * [Blockchain     |
+|   |     | * Software         | for Thursday       |                    |slides]            |
+|   |     |engineering         |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -297,8 +297,8 @@ represents my aims.
 |   |     |                    |lab                 |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|25 |4/26 |                    |                    |                    |                   |
-|   |     |                    |                    |                    |                   |
+|25 |4/26 | * Security         |                    |                    |                   |
+|   |     | * "Dark web"       |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
@@ -371,3 +371,6 @@ Projects will be due at that time. Papers will be due **Friday, May 11, at noon*
 [ReadFile.java]: lab07/ReadFile.java
 [Multiplier.java]: lab07/Multiplier.java
 [numbers.txt]: lab07/numbers.txt
+[w3schools]: https://www.w3schools.com/
+[Blockchain slides]: 24/blockchains.pdf
+[Tor]: https://www.torproject.org/about/overview.html.en
