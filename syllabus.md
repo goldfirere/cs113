@@ -302,7 +302,7 @@ represents my aims.
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 +---+-----+--------------------+--------------------+--------------------+-------------------+
-|26 |5/1  |* Exam review       |                    |                    |                   |
+|26 |5/1  |* Exam review       |                    |                    | * [Exam 3 Review] |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
 |   |     |                    |                    |                    |                   |
@@ -374,3 +374,4 @@ Projects will be due at that time. Papers will be due **Friday, May 11, at noon*
 [w3schools]: https://www.w3schools.com/
 [Blockchain slides]: 24/blockchains.pdf
 [Tor]: https://www.torproject.org/about/overview.html.en
+[Exam 3 Review]: lab13/Review.pdf
