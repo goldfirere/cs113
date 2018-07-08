@@ -24,6 +24,25 @@ Teach GCompound, but only basic stuff, like through Pinocchirobin. No more than 
 for compound objects on Robin or Midterm projects. Students end up drowning in coordinates, and for what
 reason? Instead, perhaps put more weight on classes around the data visualization.
 
+Clarify on dataviz not to hard-code #s into code. Rule: changing the numbers in the file shouldn't
+invalidate the visualization.
+
+Also: does dataviz specify that it must be pretty? It should.
+Also: it should say that the running program must cite sources
+Also: it must not take up the entire applet
+
+Do more with recursion
+
+Think hard about what to do during class during FP.
+
+Discuss how I want students to be independent and self-critical, esp. around ungraded labs.
+
+Answer "why Java"
+--
+
+Explain style more clearly.
+
+Second midterm didn't get as much practice (on assignments) as first.
 
 -----------------------------------------
 
